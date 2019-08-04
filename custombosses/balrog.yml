@@ -1,0 +1,22 @@
+isEnabled: true
+entityType: SILVERFISH
+name: '&4Balrog'
+level: dynamic
+timeout: 0
+isPersistent: false
+healthMultiplier: 1.0
+damageMultiplier: 1.0
+isBaby: false
+powers:
+- summon_raug.yml
+uniqueLootList:
+- dwarven_greed.yml:1
+dropsEliteMobsLoot: true
+dropsVanillaLoot: true
+trails:
+- SMOKE_LARGE
+- SMOKE_LARGE
+- SMOKE_LARGE
+- SMOKE_LARGE
+- FLAME
+- FLAME

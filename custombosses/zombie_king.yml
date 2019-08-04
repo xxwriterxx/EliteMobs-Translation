@@ -1,0 +1,29 @@
+isEnabled: true
+entityType: ZOMBIE
+name: '&4Zombie King'
+level: dynamic
+timeout: 30
+isPersistent: true
+healthMultiplier: 4.0
+damageMultiplier: 4.0
+helmet: DIAMOND_HELMET
+chestplate: DIAMOND_CHESTPLATE
+leggings: DIAMOND_LEGGINGS
+boots: DIAMOND_BOOTS
+mainHand: GOLDEN_AXE
+isBaby: false
+powers:
+- flame_pyre.yml
+- flamethrower.yml
+- summon_the_returned.yml
+- spirit_walk.yml
+spawnMessage: '&cThe Zombie King has been sighted!'
+deathMessage: '&aThe Zombie King has been slain by $players!'
+escapeMessage: '&4The Zombie King has escaped!'
+locationMessage: '&cZombie King: $location'
+uniqueLootList:
+- zombie_kings_axe.yml:1
+dropsEliteMobsLoot: true
+dropsVanillaLoot: true
+trails:
+- FLAME

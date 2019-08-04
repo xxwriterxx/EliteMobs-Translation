@@ -1,0 +1,13 @@
+isEnabled: true
+entityType: SILVERFISH
+name: '&4Raug'
+level: dynamic
+timeout: 0
+isPersistent: false
+healthMultiplier: 0.1
+damageMultiplier: 0.1
+isBaby: false
+dropsEliteMobsLoot: false
+dropsVanillaLoot: false
+trails:
+- SMOKE_LARGE

@@ -1,0 +1,20 @@
+Enable adventurer's guild: true
+Add max health when unlocking higher guild ranks: true
+Adventurer's Guild world name: EliteMobs_adventurers_guild
+Guild world coordinates: 208.5,88,236.5,-80,0
+Teleport players to the adventurers guild using /ag: true
+'0': '&8Commoner'
+'1': '&fFresh Meat'
+'2': '&fRookie'
+'3': '&fAdventurer'
+'4': '&2Journeyman'
+'5': '&2Elite Adventurer'
+'6': '&2Veteran'
+'7': '&1Slayer'
+'8': '&1Exterminator'
+'9': '&5&lElite Hunter'
+'10': '&5Hero'
+'11': '&6&l&oLegend'
+limitLootBasedOnGuildTier: true
+lootLimiterMessage: '&7[EM] &cYou must unlock the next guild rank through /ag to loot
+  better items!'

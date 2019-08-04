@@ -1,0 +1,20 @@
+Enable events: true
+Minimum amount of online players for event to trigger: 2
+Maximum amount of online players after which the event frequency won't increase: 100
+Minimum event frequency (minutes): 45
+Maximum event frequency (minutes): 10
+Enabled events:
+  Small treasure goblin: true
+  Dead moon: true
+  Kraken: true
+  Balrog: true
+  Fae: true
+Event weight:
+  Small treasure goblin: 40
+  Blood moon: 20
+Kraken on fish chance: 0.005
+Name of mob in Kraken event: '&1Kraken'
+Balrog chance on mine: 5.0E-4
+Fae chance on chop: 0.001
+Only broadcast event message in event world: false
+Deadmoon announcement message: A dead moon rises, and the undead with it...

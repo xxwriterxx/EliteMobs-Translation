@@ -1,0 +1,6 @@
+isEnabled: true
+entityType: ENDERMAN
+name: '&fLvl &2$level &fElite &5Enderman'
+deathMessages:
+- $entity sent $player into the void!
+- $player looked at $entity wrong!

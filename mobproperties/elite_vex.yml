@@ -1,0 +1,5 @@
+isEnabled: true
+entityType: VEX
+name: '&fLvl &2$level &fElite &bVex'
+deathMessages:
+- $entity has vexed $player!

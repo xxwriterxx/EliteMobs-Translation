@@ -1,0 +1,6 @@
+isEnabled: true
+entityType: SPIDER
+name: '&fLvl &2$level &fElite &7Spider'
+deathMessages:
+- $player became entangled in $entity's web!
+- $entity has devoured $player!

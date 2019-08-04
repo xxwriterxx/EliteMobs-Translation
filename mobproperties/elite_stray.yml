@@ -1,0 +1,5 @@
+isEnabled: true
+entityType: STRAY
+name: '&fLvl &2$level &fElite &bStray'
+deathMessages:
+- $player was led astray by $entity!

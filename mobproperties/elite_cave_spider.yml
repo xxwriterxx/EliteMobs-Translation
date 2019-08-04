@@ -1,0 +1,5 @@
+isEnabled: true
+entityType: CAVE_SPIDER
+name: '&fLvl &2$level &fElite &3Cave Spider'
+deathMessages:
+- $player became entangled in $entity's web!

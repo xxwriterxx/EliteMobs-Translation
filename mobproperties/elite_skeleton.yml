@@ -1,0 +1,5 @@
+isEnabled: true
+entityType: SKELETON
+name: '&fLvl &2$level &fElite &fSkeleton'
+deathMessages:
+- $player became $entity's pin cushion!

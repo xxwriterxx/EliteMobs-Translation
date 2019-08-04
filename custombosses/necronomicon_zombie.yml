@@ -1,0 +1,11 @@
+isEnabled: true
+entityType: ZOMBIE
+name: '&7Summoned Zombie'
+level: dynamic
+timeout: 0
+isPersistent: false
+healthMultiplier: 0.3
+damageMultiplier: 0.1
+isBaby: false
+dropsEliteMobsLoot: false
+dropsVanillaLoot: false

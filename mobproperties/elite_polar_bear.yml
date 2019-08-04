@@ -1,0 +1,6 @@
+isEnabled: true
+entityType: POLAR_BEAR
+name: '&fLvl &2$level &fElite &fPolar Bear'
+deathMessages:
+- $player was clawed to death by $entity!
+- $player was mauled to death by $entity!

@@ -1,0 +1,5 @@
+isEnabled: true
+entityType: BLAZE
+name: '&fLvl &2$level &fElite &eBlaze'
+deathMessages:
+- $player was lit ablaze by $entity!

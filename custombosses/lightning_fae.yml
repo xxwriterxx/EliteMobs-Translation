@@ -1,0 +1,15 @@
+isEnabled: true
+entityType: VEX
+name: '&eLightning Fae'
+level: dynamic
+timeout: 0
+isPersistent: false
+healthMultiplier: 0.3
+damageMultiplier: 0.3
+isBaby: false
+powers:
+- attack_lightning.yml
+dropsEliteMobsLoot: true
+dropsVanillaLoot: true
+trails:
+- SPELL

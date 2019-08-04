@@ -1,0 +1,27 @@
+isEnabled: true
+entityType: ZOMBIE
+name: '&eTreasure Goblin'
+level: dynamic
+timeout: 30
+isPersistent: true
+healthMultiplier: 4.0
+damageMultiplier: 4.0
+helmet: GOLDEN_HELMET
+chestplate: GOLDEN_CHESTPLATE
+leggings: GOLDEN_LEGGINGS
+boots: GOLDEN_BOOTS
+isBaby: true
+powers:
+- gold_explosion.yml
+- gold_shotgun.yml
+- hyper_loot.yml
+- spirit_walk.yml
+spawnMessage: '&cA Treasure Goblin has been sighted!'
+deathMessage: '&aA Treasure Goblin has been slain by $players!'
+escapeMessage: '&4A Treasure Goblin has escaped!'
+locationMessage: '&cTreasure Goblin: $location'
+uniqueLootList: []
+dropsEliteMobsLoot: true
+dropsVanillaLoot: true
+trails:
+- GOLD_NUGGET

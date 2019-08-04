@@ -1,0 +1,60 @@
+questTierSelectorMenuTitle: '[EM] Guild Rank Selection'
+lowTierWarning: '&cElites can''t drop better loot!'
+normalTierWarning: '&aElite can drop better loot!'
+notEnoughCurrencyMessage: '&7[EliteMobs] &4You don''t have enough Elite Coins ($neededAmount
+  $currencyName)! Sell some Elite Mob loot to [/em shop]! You have $currentAmount
+  $currencyName.'
+unlockMessage: "&7[EliteMobs] &aYou have unlocked the $rankName &arank for $price\
+  \ $currencyName. \n&6Happy hunting!"
+questCompleteBroadcastMessage: '&7[EliteMobs] &a$player &ahas reached the $rankName
+  &aguild rank!'
+failedMessage: '&7[EliteMobs] &cYou need to unlock other ranks first!'
+unlockedButton:
+  material: GRAY_STAINED_GLASS_PANE
+  name: $rankName
+  lore:
+  - §f§m-------------------------------
+  - §aThis rank is unlocked!
+  - §fYou can select it.
+  - $tierWarning
+  - §f§m-------------------------------
+  - $lootBonus
+  - $mobSpawning
+  - $difficultyBonus
+lockedButton:
+  material: RED_STAINED_GLASS_PANE
+  name: $rankName
+  lore:
+  - §f§m-------------------------------
+  - §aThis rank is locked!
+  - §cYou need the $previousRank rank first!
+  - $tierWarning
+  - §f§m-------------------------------
+  - $lootBonus
+  - $mobSpawning
+  - $difficultyBonus
+currentButton:
+  material: GREEN_STAINED_GLASS_PANE
+  name: $rankName
+  lore:
+  - §f§m-------------------------------
+  - §aThis is your current rank!
+  - $tierWarning
+  - §f§m-------------------------------
+  - $lootBonus
+  - $mobSpawning
+  - $difficultyBonus
+nextButton:
+  material: YELLOW_STAINED_GLASS_PANE
+  name: $rankName
+  lore:
+  - §f§m-------------------------------
+  - §6This is the next rank you can unlock
+  - §aSelect it when you're ready!
+  - §6Costs $price §6$currencyName
+  - §fYou have §a$currentCurrency $currencyName
+  - $tierWarning
+  - §f§m-------------------------------
+  - $lootBonus
+  - $mobSpawning
+  - $difficultyBonus
