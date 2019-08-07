@@ -1,7 +1,7 @@
 isEnabled: true
 entityType: PHANTOM
-name: '&fLvl &2$level &fElite &9Phantom'
+name: '&2$level级&f精英&9幻翼'
 deathMessages:
-- $player just had a bad nightmare about $entity!
-- $player will be having nightmares about $entity!
-- $entity has taught $player the value of sleep!
+- $player做了关于$entity的噩梦!
+- $player被$entity吓死了!
+- $entity告诉了$player睡觉的重要性!

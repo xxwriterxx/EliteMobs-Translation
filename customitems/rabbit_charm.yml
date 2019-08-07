@@ -1,10 +1,9 @@
 isEnabled: true
 material: RABBIT_FOOT
-name: '&bRabbit Charm'
+name: '&b跃兔护符'
 lore:
-- '&aWith this charm, just about'
-- '&aany destination is only a hop,'
-- '&askip and a jump away!'
+- '&a拥有这一护符'
+- '&a你可以跳得更高!'
 enchantments:
 - VANISHING_CURSE,1
 potionEffects:

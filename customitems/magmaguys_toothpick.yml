@@ -1,8 +1,8 @@
 isEnabled: true
 material: WOODEN_SWORD
-name: '&4Magmaguy&c''s &2Toothpick'
+name: '&4Magmaguy&c的&2牙签'
 lore:
-- '&aIn nearly mint condition!'
+- '&a崭新出厂的牙签!'
 enchantments:
 - VANISHING_CURSE,1
 dropWeight: dynamic

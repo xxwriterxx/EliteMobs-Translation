@@ -1,5 +1,5 @@
 isEnabled: true
 entityType: VEX
-name: '&fLvl &2$level &fElite &bVex'
+name: '&2$level级&f精英&b恼鬼'
 deathMessages:
-- $entity has vexed $player!
+- $player惹恼了$entity!

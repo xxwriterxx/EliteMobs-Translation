@@ -1,5 +1,5 @@
 isEnabled: true
 entityType: CAVE_SPIDER
-name: '&fLvl &2$level &fElite &3Cave Spider'
+name: '&f&2$level级&f精英&3洞穴蜘蛛'
 deathMessages:
-- $player became entangled in $entity's web!
+- $player困在了$entity的天罗地网之中!

@@ -1,9 +1,9 @@
 isEnabled: true
 material: CARROT_ON_A_STICK
-name: '&bSlowpoke Charm'
+name: '&b迟钝护符'
 lore:
-- '&aLet''s just hope it doesn''t hit'
-- '&aitself in its confusion...'
+- '&a希望你不要被'
+- '&a这个护符所迷惑...'
 enchantments:
 - VANISHING_CURSE,1
 potionEffects:

@@ -1,5 +1,5 @@
 isEnabled: true
 entityType: SILVERFISH
-name: '&fLvl &2$level &fElite &7Silverfish'
+name: '&2$level级&f精英&7蠹虫'
 deathMessages:
-- $player mistook $entity for a stone block!
+- $player被石头里的$entity咬死了!

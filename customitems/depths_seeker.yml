@@ -1,11 +1,9 @@
 isEnabled: true
 material: FISHING_ROD
-name: '&2Depths seeker'
+name: '&2深渊探索者'
 lore:
-- '&9Come from depths immeasurable'
-- '&9and looted from monster most vile,'
-- '&9there is no telling what horrors'
-- '&9this fishing rod has seen.'
+- '&9从一只深渊里的怪物掠夺而来'
+- '&9你并不知道这把钓鱼竿到底经历了什么.'
 enchantments:
 - LURE,3
 - LUCK,3

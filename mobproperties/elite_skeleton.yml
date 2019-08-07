@@ -1,5 +1,5 @@
 isEnabled: true
 entityType: SKELETON
-name: '&fLvl &2$level &fElite &fSkeleton'
+name: '&2$level级&f精英&f骷髅'
 deathMessages:
-- $player became $entity's pin cushion!
+- $entity使$player如坐针毡

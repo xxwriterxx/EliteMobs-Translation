@@ -1,6 +1,6 @@
 isEnabled: true
 entityType: ZOMBIE
-name: '&eTreasure Goblin'
+name: '&e宝藏哥布林'
 level: dynamic
 timeout: 30
 isPersistent: true
@@ -16,10 +16,10 @@ powers:
 - gold_shotgun.yml
 - hyper_loot.yml
 - spirit_walk.yml
-spawnMessage: '&cA Treasure Goblin has been sighted!'
-deathMessage: '&aA Treasure Goblin has been slain by $players!'
-escapeMessage: '&4A Treasure Goblin has escaped!'
-locationMessage: '&cTreasure Goblin: $location'
+spawnMessage: '&c宝藏哥布林出现了!'
+deathMessage: '&a宝藏哥布林被$players杀死了!'
+escapeMessage: '&4宝藏哥布林已逃脱!'
+locationMessage: '&c宝藏哥布林位置: $location'
 uniqueLootList: []
 dropsEliteMobsLoot: true
 dropsVanillaLoot: true

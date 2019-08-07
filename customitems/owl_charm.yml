@@ -1,9 +1,8 @@
 isEnabled: true
 material: ELYTRA
-name: '&bOwl Charm'
+name: '&b夜鹰护符'
 lore:
-- '&aBecome the ultimate nocturnal'
-- '&apredator!'
+- '&a成为终极夜间捕食者!'
 enchantments:
 - VANISHING_CURSE,1
 potionEffects:

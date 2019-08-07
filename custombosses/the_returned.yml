@@ -1,6 +1,6 @@
 isEnabled: true
 entityType: HUSK
-name: '&6The Returned'
+name: '&6尸魂归来'
 level: dynamic
 timeout: 0
 isPersistent: false

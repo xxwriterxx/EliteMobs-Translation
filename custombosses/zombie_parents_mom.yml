@@ -1,6 +1,6 @@
 isEnabled: true
 entityType: SKELETON
-name: '&7Zombie Mom'
+name: '&7僵尸妈妈'
 level: dynamic
 timeout: 0
 isPersistent: false

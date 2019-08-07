@@ -1,10 +1,10 @@
 isEnabled: true
 material: WOODEN_AXE
-name: '&2The Feller'
+name: '&2伐木斧'
 lore:
-- '&aEven in your sleep,'
-- '&ayou can feel this axe''''s'
-- '&asaplust'
+- '&a即使你在梦里'
+- '&a你也能感受到'
+- '&a这把斧头对树木的杀戮之欲'
 enchantments:
 - LOOT_BONUS_BLOCKS,4
 - SILK_TOUCH,1
