@@ -1,13 +1,12 @@
 enableEconomy: true
 itemResaleValue: 5.0
-currencyName: Elite Coins
+currencyName: 精英币
 useVault - not recommended: false
 enableCurrencyShower: true
 currencyShowerTierMultiplier: 1.0
-chatCurrencyShowerMessage: '&7[EM] You''ve picked up &a$amount $currency_name!'
-actionbarCurrencyShowerMessage: '&7[EM] You''ve picked up &a$amount $currency_name!'
-adventurersGuildNotificationMessage: '&7[EM] Extra spending money? Try &a/ag &7or
-  &a/em shop&7!'
+chatCurrencyShowerMessage: '&7[EM] 你捡起了 &a$amount $currency_name!'
+actionbarCurrencyShowerMessage: '&7[EM] 你捡起了 &a$amount $currency_name!'
+adventurersGuildNotificationMessage: '&7[EM] 想要买买买? 输入&a/ag &7或&a/em shop&7!'
 lootShowerMaterials:
   '1': GOLD_NUGGET
   '5': GOLD_INGOT

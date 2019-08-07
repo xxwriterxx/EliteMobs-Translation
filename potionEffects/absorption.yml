@@ -1,4 +1,4 @@
 isEnabled: true
-name: Absorption
+name: 生命吸收
 onHitDuration: 2
 value: 100.0

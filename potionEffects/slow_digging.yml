@@ -1,4 +1,4 @@
 isEnabled: true
-name: Mining Fatigue
+name: 挖掘疲劳
 onHitDuration: 10
 value: 10.0
