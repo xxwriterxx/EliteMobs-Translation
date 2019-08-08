@@ -1,284 +1,282 @@
-isEnabled: true
-name: Taunt
-effect: JUKEBOX
 onDamagedByBow:
-- Fight me like a Player!
-- Afraid to come up-close?
-- I can smell your fear from here!
-- Did you forget your sword?
-- Coward! Bow are no fair!
-- Bows? That's so 2011...
-- Bows are for the weak of mind!
-- Bows are for the weak of spirit!
-- Bows are for the weak of heart!
-- I thought we agreed no bows!
-- Bows? You'll regret that
-- Ow!
-- Oi!
-- Stop that!
-- Why?!
-- You fight like a Dairy Farmer!
-- You are a pain in the backside!
+- Дерись со мной как игрок!
+- Боишься подойти ближе?
+- Я чувствую твой страх даже от сюда!
+- Ты что забыл свой меч?
+- Трус! С луками не честно!
+- Луки? Это такой 2011...
+- Луки для слабых умом!
+- Луки для слабых духом!
+- Луки для слабых сердцем!
+- Я думал мы договорились - без луков!
+- Лук? Ты пожалеешь об этом 
+- Ау!
+- Ой!
+- Хватит!
+- Зачем?!
+- Ты дерёшься как фермер!
+- Ты просто заноза в заднице!
 - En garde! Touche!
-- Hacks!
-- My health is bugged, unkillable!
-- Your hits only make me stronger!
-- Sticks and stones...
-- '''tis but a flesh wound!'
-- Emperor protects!
-- Herobrine, aid me!
-- Behind you! A creeper!
-- I have made a terrible mistake.
-- What doesn't kill me...
-- Zombies dig scars
-- I shall show you my true power!
-- Prepare for my ultimate attack!
-- My reinforcements are arriving!
-- You're going to pay for that!
-- That's going to leave a mark!
-- An eye for an eye!
-- Health insurance will cover that
-- I felt that one in my bones
-- '''tis but a scratch'
-- What was that? A soft breeze?
-- You'll never defeat me like that
-- Pathetic.
-- Weak.
-- That didn't even dent my armor!
-- This is going to be an easy one
-- My grandchildren will feel that
-- Are you even trying?
-- An admin just fully healed me
-- Haxxor!
-- Me? Damaged? Hacks!
-- I can't be defeated!
-- Good thing I'm using hacks!
-- Watch out! Herobrine behind you!
-- My life for Aiur!
-- Your home is getting griefed!
-- Why can't we be friends?
-- Valhalla!
-- Notch save me!
-- No retreat!
-- Hit me with your best shot!
+- Читы!
+- Мое здоровье забагалось, я бессмертный!
+- Твои выстрелы только делают меня сильнее!
+- 'это всего лишь порез!'
+- На защиту императора!
+- Херобрин, исцели меня!
+- Обернись! Крипер!
+- Я совершил ужасную ошибку.
+- То что меня не убивает...
+- Зомби любят шрамы
+- Я покажу тебе мою настоящую мощь!
+- Приготовься к моей ультимативной атаке!
+- Подкрепления уже на подходе!
+- Ты за это заплатишь!
+- Это оставит шрам!
+- Глаз за глаз!
+- Медицинская страховка покроет это
+- Я почувствовал это моими костями
+- 'это всего лишь царапина!'
+- Это что было? Легкий ветерок?
+- Ты никогда меня так не победишь
+- Жалкий.
+- Слабый.
+- Это даже не поцарапало мою броню!
+- Это будет легко
+- Мои внуки почувствую это
+- Ты хотя бы пытаешься?
+- А админ меня только что полностью вылечил
+- Читак!
+- Я? Получил урон? Читы!
+- Меня нельзя победить!
+- Хорошо что я использу читы!
+- Оглянись! Херобрин позади тебя!
+- Жизнь за Айура!
+- Твой дом загриферят!
+- Почему мы просто не можем быть друзьями?
+- Валгалла!
+- Нотч сохрани меня!
+- Не отступаю!
+- Покажи мне свой лучший выстрел!
 onDeath:
-- Alas, poor Yorick!
-- The rest is silence
-- I shall return
-- Unforgivable
-- I live, I die, I live again!
-- WITNESS ME
-- I ride to valhalla!
-- VALHALLA!
-- VALHALLA! DELIVERANCE
-- You win, this time
-- A blight upon your land!
-- A pox upon thee!
-- You'll join me soon enough!
-- This is not over
-- Death is but a setback
-- Not like this...
-- I just wanted to go into space
-- We could've been friends
-- Your sins crawling on your back
-- See you in a bit
-- See you later
-- I'll be waiting for you
-- I will be avenged!
-- I won't go gently into the night
-- Should've gotten life insurance
-- It was my last day on the job
-- It was my last day here
-- Et tu, Brute?
+- Бедный Йорик!
+- Дальше — тишина…
+- Я вернусь
+- Непростительно
+- Я жив, я умер, я воскрес!
+- ЗАПОМНИТЕ МЕНЯ
+- Я отправляюсь в вальхаллу!
+- ВАЛЬХАЛЛА!
+- Вальхалла – освобождение!
+- Ты победил. На этот раз!
+- Болезнь на твои земли!
+- Чтоб ты оспу подхватил!
+- Ты скоро ко мне присоединишься!
+- Это ещё не конец
+- Смерть это всего лишь неудача
+- Только не так...
+- Я всего лишь хотел отправиться в космос
+- Мы могли быть друзьями
+- Твои грехи ложатся на тебя
+- Увидимся в момент
+- Увидимся позже
+- Я буду тебя ждать
+- Я буду отомщен!
+- Я спокойно опускаюсь во тьму
+- Нужно было застраховать жизнь
+- Это был мой последний день на работе
+- Это был мой последний день тут
+- И ты брут?
 - RIP
 - x.x
 - (x.x)
 - xox
-- Fainted
+- Упал в обморок
 - GG, WP
 - GG
 - WP
 - GG no RE
-- HAX
-- Hacker
-- Not fair I was lagging
-- You win, this time
-- You monster...
-- Mediocre...
+- Чит
+- Читер
+- Это не честно. У меня залагало
+- Ты победил. В этот раз
+- Ты монстр...
+- Посредственность...
 onTarget:
-- OI! Get over here!
-- What's that I see? A coward?
-- Sir, prepare your fisticuffs!
-- Let's settle this like cavemen!
-- En garde!
-- Look out! A creeper, behind you!
-- Aren't you a right ugly mug!
-- You look delicious.
-- Prepare for trouble!
-- Let the best click spammer win!
-- SPARTAAAAAA
-- I am actually level 9001
-- Not an Elite Mob
-- Poorly disguised Elite Mob
-- Ah, fresh prey!
-- The hunter becomes the hunted!
-- Killing me crashes the server
-- I'm actually a disguised player!
-- I'm not going to drop any loot!
-- Why can't we be friends?
+- Ой! Иди сюда!
+- Что я вижу? Трус?
+- Сэр, приготовьтесь к кулачному бою!
+- Давайте уладим это как пещерные люди!
+- На готове!
+- Оглянись! Позади тебя крипер!
+- Не правда ли у тебя уродливая рожа?
+- Ты выглядишь очень вкусно.
+- Приготовься к проблемам!
+- Победит тот кто быстрее кликает!
+- СПААААРТАААА
+- На самом деле мой уровень 9001
+- Не элитный моб
+- Плохо замаскированный Элитный Моб
+- Ах, новая жертва!
+- Охотник становится жертвой!
+- Если убьешь меня, то сервер вылетит
+- На самом деле я замаскированный игрок!
+- С меня не выпадет никаких вещей!
+- Почему мы просто не можем быть друзьями?
 - Sssssss
-- This is my last day on the job!
-- Stop right there criminal scum!
-- Prepare to die!
-- Praise the Sun!
-- Git gud
-- Alea jacta est!
-- Facta, non verba!
-- Skulls for the skull throne!
-- Blood for the blood throne!
-- A sacrifice for Herobrine!
-- I shall pierce the heavens!
-- Just who do you think I am!?
-- A weakling! He's mine.
-- Dibs on the weakling!
-- Accio player!
-- A duel to the death!
-- I challenge you to a duel!
-- Pika pika!
-- Did you just call me an infernal
-- What did you just call me?
-- I know what you did you monster!
-- This is how your story ends!
-- Prepare for trouble!
-- I've been preparing for this!
-- I am prepared. Are you?
-- A worthy foe!
-- A worthy opponent!
-- A newbie! It's my lucky day!
-- Your stuff or your life!
-- This is a robbery!
-- It's you! You monster!
-- So hungry, give me your flesh!
-- There he is!
-- Must've been my imagination
-- Hi I'm Mr Meeseeks!
-- I'm Mr Meeseeks, look at me!
-- Your diamonds or your life!
-- For king and country!
-- Hit me with your best shot!
-- Witness me!
-- Witness me blood bag!
-- I go all shiny and chrome!
+- Это мой последний рабочий день!
+- Стой где стоишь, ты сраный преступник!
+- Приготовься к смерти!
+- Молись что солнце взойдет!
+- Тебе стоит подучиться играть в майнкрафт
+- Жребий брошен!
+- Деяния, не слова!
+- Черепа для трона из черепов!
+- Кровь для трона из крови!
+- Жерва ХЕРОБРИНУ!
+- Я отправлю тебя на небеса!
+- Просто скажи, ты думаешь кто я такой!?
+- Хилый игрок! Он мой.
+- Чур хилый мой!
+- Авада кедавра ИГРОК!
+- Бой насмерть!
+- Я вызываю тебя на дуэль!
+- Пика пика!
+- Ты что только что назвал меня инфернальным?
+- Как ты только что назвал меня?
+- Я знаю что ты сделал! Ты монстр!
+- Вот так и закончится твоя история!
+- Приготовься к проблемам!
+- Я был готов к этому!
+- Я готов. А ты?
+- Достойный соперник!
+- Достойный враг!
+- Опа нуб! Сегодня мне повезло!
+- Отдавай свои вещи или свою жизнь!
+- Это ограбление!
+- Это ты! Ты монстр!
+- Я так голоден, отдай мне свою плоть!
+- Вот он где!
+- Должно быть у меня разыгралось воображение
+- Привет! Я мистер Мисикс
+- Я мистер Мисикс, посмотрите на меня!
+- Отдавай алмазы или я заберу твою жизнь!
+- За короля и страну!
+- Покажи свой лучший выстрел!
+- Узри меня!
+- Узри меня, мешок с кровью!
+- Я весь блестящий и хромированный!
 onDamage:
-- A solid hit!
-- He shoots, and he scores!
-- You'll feel that in the morning!
-- Victory approaches!
-- Victory shall be mine!
-- That was only half of my power!
-- You came to the wrong hood!
-- You messed with the wrong mob!
-- Get ready to get mobbed on!
-- This was your last mistake!
-- Feel the burn!
-- John Cena
-- How are you still standing?
-- Just give up already!
-- Give up!
-- I have the high ground!
-- I will end you!
-- Hope you came prepared for pain!
-- The hunter becomes the hunted!
-- Blood for the blood throne!
-- Skulls for the skull throne!
-- A good player is a dead player!
-- Git gud!
-- Praise the Sun!
-- The end draws near!
-- You are not prepared.
-- Zug zug!
-- Hardly worth my time!
-- I thought this was a challenge?
-- 'Pro tip: don''t get hit'
-- Ima firin mah lazer bwooooooooo
-- For the Emperor!
-- Herobrine shall be pleased!
-- This is the end for you!
-- Are you even trying?
-- Weakling!
-- Pathetic.
-- Maybe this will wake you up.
-- This is just the beggining!
-- We're just getting started!
-- That was just a warm-up!
-- You are no match for me!
-- RKO out of nowhere!
-- I can do this all night long!
-- A fine punching bag!
-- I am the night!
-- I wonder what will break first
-- Revenge for Steve! You monster!
-- Join the mob side!
-- Too easy, too easy!
-- Too easy!
-- You can't defeat me!
-- Pikachuuuuuu
-- Avada kedavra!
-- Crucio!
-- Jierda!
-- A critical hit!
-- This is what skills looks like!
-- 9001 damage!
-- Still standing?
-- Face your defeat!
-- A taste of pain to come!
-- I'll make you endangered!
+- Отличный удар!
+- Он стреляет и попадает!
+- Тебе будет плохо с утра!
+- Победа приближается!
+- Победа будет моей!
+- Я показал только половину своей мощи!
+- Ты зашел не в тот район!
+- Ты связался не с тем мобом!
+- Я покажу тебе всю силу мобов!
+- Это была твоя роковая ошибка!
+- Почувствуй пламя!
+- Джон Сина
+- Ты все еще стоишь?
+- Сдавайся уже!
+- Сдавайся!
+- У меня преимущество!
+- Я тебя прикончу!
+- Надеюсь ты приготовился к боли!
+- Охотник становится жертвой!
+- Черепа для трона из черепов!
+- Кровь для трона из крови!
+- Хороший игрок - мертвый игрок!
+- Нуб, подучись!
+- Молись что солнце взойдет!
+- Конец приближается!
+- Ты не готов.
+- ЗАГ ЗАГ!
+- Едвали стоит моего времени!
+- И я еще думал что это будет трудно...
+- Совет от ПРО - не пропускай удар'
+- Я бью тебя лазером. Пиу пиу
+- За императора
+- ХЕРОБРИН будет доволен!
+- Это конец для тебя!
+- Ты хотябы пытаешься?
+- Ты жалок.
+- Ты слаб.
+- Может быть это тебя пробудит.
+- Это только начало!
+- Мы только начинаем!
+- Это был только разогрев!
+- Ты мне не соперник!
+- Супер удар из ниоткуда!
+- Я могу делать это всю ночь!
+- Прекрасный мешок для биться!
+- Я сама ночь!
+- Интересно какая кость сломается у тебя первой
+- Месть за Стива! Ты монстр!
+- Присоединяйся к темной стороне!
+- Слишком простро, слишком!
+- Слишком просто!
+- Ты не в состоянии меня победить!
+- Пикачууууу
+- АВАДА КЕДАВРА!
+- КРУЦИО!
+- Критический удар!
+- Это то как выглядит скилл!
+- 9001 урона!
+- Все стоишь?
+- Ты увдишь как проиграешь!
+- Вкус боли приближается!
+- Я опасен и ты в опасности!
 onDamaged:
-- Ow!
-- Oi!
-- Stop that!
-- Why?!
-- You fight like a Dairy Farmer!
-- You are a pain in the backside!
-- En garde! Touche!
-- Hacks!
-- My health is bugged, unkillable!
-- Your hits only make me stronger!
-- Sticks and stones...
-- '''tis but a flesh wound!'
-- Emperor protects!
-- Herobrine, aid me!
-- Behind you! A creeper!
-- I have made a terrible mistake.
-- What doesn't kill me...
-- Zombies dig scars
-- I shall show you my true power!
-- Prepare for my ultimate attack!
-- My reinforcements are arriving!
-- You're going to pay for that!
-- That's going to leave a mark!
-- An eye for an eye!
-- Health insurance will cover that
-- I felt that one in my bones
-- '''tis but a scratch'
-- What was that? A soft breeze?
-- You'll never defeat me like that
-- Pathetic.
-- Weak.
-- That didn't even dent my armor!
-- This is going to be an easy one
-- My grandchildren will feel that
-- Are you even trying?
-- An admin just fully healed me
-- Haxxor!
-- Me? Damaged? Hacks!
-- I can't be defeated!
-- Good thing I'm using hacks!
-- Watch out! Herobrine behind you!
-- My life for Aiur!
-- Your home is getting griefed!
-- Why can't we be friends?
-- Valhalla!
-- Notch save me!
-- No retreat!
-- Hit me with your best shot!
+- Ауч!
+- Ой!
+- Хватит!
+- Зачем?!
+- Ты дерешься как фермер!
+- Ты заноза в заднице!
+- Хватит ко мне прикасаться
+- Удар!
+- Мое здоровье повышенно, меня невозможно убить!
+- Твои удары только делают меня сильнее!
+- Удар не воробей...
+- Это всего лишь царапина!
+- Под защитой императора!
+- ХЕРОБРИН, излечи меня!
+- Позади тебя! КРИПЕР!
+- Я совершил ужасную ошибку.
+- Что меня не убивает...
+- Зомби любят шрамы
+- Я должен показать тебе мою настоящуюю мощь!
+- Приготовься к моей ультимативной атаке!
+- Мои подкрепления уже на подходе!
+- Ты за это заплатишь!
+- Это оставит след!
+- Глаз за глаз!
+- Страховка это покроет
+- Я предчувствовал это
+- Это всего лишь небольшая рана
+- Что это было? Щекотка?
+- Ты никогда меня не победишь таким путем
+- Ты жалок.
+- Ты слаб.
+- Это даже не оставило вмятины на моей броне!
+- Это будет легкая победа для меня
+- Мои внуки узнают об этом
+- Ты хотя бы пытаешься?
+- Админ только что полностью восстановил мне здоровье
+- Читер!
+- Меня? Ударил? Читы!
+- Я непобедим!
+- Хорошо что я использую читы!
+- Оглянись! ХЕРОБРИН позади тебя!
+- Жизнь за Нерзула!
+- Твой дом сейчас загриферят!
+- Почему мы просто не можем быть друзьями?
+- ВАЛЬГАЛЛА!
+- Нотч спаси меня!
+- Не отступать!
+- Покажи свой лучний удар!
+isEnabled: true
+name: Оскорбление
+effect: JUKEBOX

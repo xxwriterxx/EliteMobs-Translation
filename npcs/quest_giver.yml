@@ -1,26 +1,26 @@
 isEnabled: true
-name: Qel'Thuzad
-role: <Quest Giver>
+name: Кел'Тузед
+role: <Квестодатель>
 profession: FLETCHER
 location: EliteMobs_adventurers_guild,278.5,91,215.5,0,0
 greetings:
-- Greetings, adventurer!\nFancy a quest?
-- You! I've got a quest!
-- Feeling... adventurous?
+- Приветствую, воин!\nКак на счет квеста?
+- Ты! У меня есть квест для тебя!
+- Чувствую... отвагу?
 dialog:
-- Complete guild quests\nfor cool rewards!
-- Higher tier quests have\nbetter rewards!
-- Higher tier quests make\nyou hunt higher level mobs!
-- Want a harder challenge?\nIncrease your guild rank!
-- Make sure you're well equipped\nfor these quests!
+- Выполняй квесты гильдии\nза хорошую награду!
+- Чем выше уровень квеста,\nтем лучше награда!
+- Чем выше уровень квеста,\nтем более сильных монстров потребуется убить!
+- Хочешь более сложное испытание?\nУвеличивай свой ранг авантюриста!
+- Убедись что ты достаточно хорошо\nподготовлен для этих квестов!
 farewell:
-- Safe travels, friend.
-- Happy hunting!
-- Live long and prosper!
-- Come back with your shield,\n or on it.
-- Life before death!
-- Strength before weakness!
-- Journey before destination!
+- Безопасной дороги, друг.
+- Удачной охоты!
+- Живи долго и процветай!
+- Вернись со щитом,\nили на нем.
+- Жизнь превыше смерти!
+- Сила превыше слабости!
+- Путешествие превыше места назначения!
 canMove: false
 canTalk: true
 activationRadius: 3.0

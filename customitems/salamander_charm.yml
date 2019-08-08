@@ -1,9 +1,9 @@
 isEnabled: true
 material: LEATHER
-name: '&bSalamander Charm'
+name: '&bЧары Саламандры'
 lore:
-- '&aAlmost as hot as MagmaGuy''s'
-- '&anew mixtape!'
+- '&aПочти также горячи как новый'
+- '&aмикстейп Magmaguy!'
 enchantments:
 - VANISHING_CURSE,1
 potionEffects:

@@ -1,10 +1,10 @@
 isEnabled: true
 material: POISONOUS_POTATO
-name: '&bScorpion Charm'
+name: '&bЧары Скорпиона'
 lore:
-- '&aFloat like a butterfly,'
-- '&asting like a bee,'
-- '&apoison like a potato!'
+- '&aПархай как бабочка,'
+- '&aжаль как пчела,'
+- '&aотравляй как картошка!'
 enchantments:
 - VANISHING_CURSE,1
 potionEffects:

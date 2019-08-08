@@ -1,10 +1,10 @@
 isEnabled: true
 material: ANVIL
-name: '&bElephant Charm'
+name: '&bЧары Слона'
 lore:
-- '&aGain the power of an elephant'
-- '&astampede, for the cost of the'
-- '&aspeed of an elephant stampede!'
+- '&aПолучи силу слона'
+- '&aнемедленно, но тебе придется'
+- '&aзаплатить за нее своей скоростью!'
 enchantments:
 - VANISHING_CURSE,1
 potionEffects:

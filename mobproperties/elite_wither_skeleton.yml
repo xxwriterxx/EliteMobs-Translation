@@ -1,6 +1,6 @@
 isEnabled: true
 entityType: WITHER_SKELETON
-name: '&fLvl &2$level &fElite &8Wither Skeleton'
+name: '&fЭлитный &8Скелет-иссушитель &2$level &fур.'
 deathMessages:
-- $entity's arrows withered away $player!
-- $entity's has withered $player away!
+- Меч $entity &r выпустил всю жизнь из&r $player &r!
+- $entity &rиссушил&r $player &r!

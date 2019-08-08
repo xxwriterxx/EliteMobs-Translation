@@ -1,26 +1,26 @@
 isEnabled: true
-name: Grog
-role: <Special Blacksmith>
+name: Грог
+role: <Мастер Кузнец>
 profession: WEAPONSMITH
 location: EliteMobs_adventurers_guild,282.5,93,258.5,-90,0
 greetings:
-- Need something?
-- Got anything good?
-- We have nothing but the best
-- Got anything worth selling?
-- We only buy elite mob gear.
+- Нужно что-то?
+- Есть что-то на продажу?
+- У нас только самое лучшее
+- Что принес?
+- Мы покупаем только обмундирование элитных мобов.
 dialog:
-- We buy low and sell high.
-- No refunds.
-- Absolutely no refunds.
-- There are no refunds.
-- No taksies backsies.
-- Shop purchases are final.
+- Мы покупаем за дешего и продаем за дорого.
+- Никаких возвратов.
+- Абсолютно никаких возвратов.
+- Тут нет возвратов.
+- Мы не возвращаем деньги.
+- Возвратов нет!!!
 farewell:
-- Come back when you have\nmore to spend
-- Don't get yourself killed,\nwe want you to bring us\nmore gear.
-- Next time buy something \mmore expensive.
-- Don't forget, no refunds.
+- Приходи когда у тебя будет больше\nденег чтобы потратить
+- Не умри,\nмы хотим чтобы ты принес нам\nбольше снаряжения.
+- В следующий раз купи что-нибудь \nподороже.
+- Не забывай - никаких возвратов.
 canMove: false
 canTalk: true
 activationRadius: 3.0

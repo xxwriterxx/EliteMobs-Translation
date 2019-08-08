@@ -1,10 +1,10 @@
 isEnabled: true
 material: GOLDEN_AXE
-name: '&4Zombie King''s Axe'
+name: '&4Топор короля зомби'
 lore:
-- The axe of the one Zombies
-- call their king.
-- The bloodlust is palpable.
+- Топор Зомби, которого они
+- зовут их королем.
+- Жажда крови ощутима.
 enchantments:
 - DAMAGE_ALL,10
 - DAMAGE_UNDEAD,5

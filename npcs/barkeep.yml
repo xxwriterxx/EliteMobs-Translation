@@ -1,31 +1,30 @@
 isEnabled: true
-name: Bartley
-role: <Barkeep>
+name: Бартли
+role: <Держатель таверны>
 profession: BUTCHER
 location: EliteMobs_adventurers_guild,285.5,91,209.5,0,0
 greetings:
-- Need a drink?
-- Want a drink
-- Thirsty?
-- Howdy, partner.
+- Выпить?
+- Хочешь чего-нибудь выпить?
+- Жажда замучила?
+- Доброго дня, путник.
 dialog:
-- Have one of our house specialties.
-- Special drinks won't find them\nanywhere else.
-- One taste and will keep you\ncoming back from more.
+- Отведай чего-нибудь у нас.
+- Отличные напитки, которые не найдешь\nбольше нигде.
+- Один раз попробуешь и больше\nне сможешь остановиться.
 farewell:
-- Come back anytime
-- Bottoms up!
-- Kampai!
-- Salut!
-- Brosd!
-- Salud!
-- À la vôtre !
-- Prost!
-- Santi!
-- Salute!
-- Saúde!
-- Cheers!
-- 乾杯!
+- Приходи в любое время
+- До дна!
+- Аривидерчи!
+- Салют!
+- Пор фавор!
+- Ауфидерзейн!
+- До свидания!
+- Удачи!
+- Возвращайся!
+- Ждем тебя!
+- Всегда рады тебе!
+- Приходи в другой раз!
 canMove: false
 canTalk: true
 activationRadius: 3.0

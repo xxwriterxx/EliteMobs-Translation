@@ -1,6 +1,6 @@
 isEnabled: true
 entityType: ENDERMAN
-name: '&fLvl &2$level &fElite &5Enderman'
+name: '&fЭлитный &5Ендермэн &2$level &fур.'
 deathMessages:
-- $entity sent $player into the void!
-- $player looked at $entity wrong!
+- $entity &rпослал $player &rв пустоту!
+- $player &rкак-то не так глянул на $entity &r!

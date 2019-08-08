@@ -1,6 +1,6 @@
 isEnabled: true
-name: Soulbind
+name: Привязка
 maxLevel: 1
 value: 10.0
-loreString: '&6Soulbound to &f$player'
-hologramString: $player&f's
+loreString: '&6Связь с &f$player'
+hologramString: $player

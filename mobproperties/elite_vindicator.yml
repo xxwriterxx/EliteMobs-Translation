@@ -1,5 +1,5 @@
 isEnabled: true
 entityType: VINDICATOR
-name: '&fLvl &2$level &fElite &7Vindicator'
+name: '&fЭлитный &7Поборник &2$level &fур.'
 deathMessages:
-- $entity has vindicated his combat skills from $player!
+- $entity &rдоказал $player &rчто он хороший воин!

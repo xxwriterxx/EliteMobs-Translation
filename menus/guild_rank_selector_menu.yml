@@ -1,21 +1,20 @@
-questTierSelectorMenuTitle: '[EM] Guild Rank Selection'
-lowTierWarning: '&cElites can''t drop better loot!'
-normalTierWarning: '&aElite can drop better loot!'
-notEnoughCurrencyMessage: '&7[EliteMobs] &4You don''t have enough Elite Coins ($neededAmount
-  $currencyName)! Sell some Elite Mob loot to [/em shop]! You have $currentAmount
+questTierSelectorMenuTitle: '[EM] Выбор ранга в гильдии'
+questCompleteBroadcastMessage: '&7[EliteMobs] &a$player &aдостиг ранга $rankName!'
+lowTierWarning: '&cЭлитные мобы не могут дропать лут лучше!'
+normalTierWarning: '&aЭлитные мобы могут дропать лут лучше!'
+notEnoughCurrencyMessage: '&7[EliteMobs] &4У вас недостаточно Элитных Монет ($neededAmount
+  $currencyName)! Продайте немного Элитных вещей [/em shop]! У вас $currentAmount
   $currencyName.'
-unlockMessage: "&7[EliteMobs] &aYou have unlocked the $rankName &arank for $price\
-  \ $currencyName. \n&6Happy hunting!"
-questCompleteBroadcastMessage: '&7[EliteMobs] &a$player &ahas reached the $rankName
-  &aguild rank!'
-failedMessage: '&7[EliteMobs] &cYou need to unlock other ranks first!'
+unlockMessage: "&7[EliteMobs] &aВы разблокировали $rankName &aранг за $price\
+  \ $currencyName. \n&6Удачной охоты!"
+failedMessage: '&7[EliteMobs] &cВам нужно разблокировать предыдущие ранги!'
 unlockedButton:
   material: GRAY_STAINED_GLASS_PANE
   name: $rankName
   lore:
   - §f§m-------------------------------
-  - §aThis rank is unlocked!
-  - §fYou can select it.
+  - §aЭтот ранг разблокирован!
+  - §fВы можете выбрать его.
   - $tierWarning
   - §f§m-------------------------------
   - $lootBonus
@@ -26,8 +25,8 @@ lockedButton:
   name: $rankName
   lore:
   - §f§m-------------------------------
-  - §aThis rank is locked!
-  - §cYou need the $previousRank rank first!
+  - §aЭтот ранг заблокирован!
+  - §cВам нужен ранг $previousRank для начала!
   - $tierWarning
   - §f§m-------------------------------
   - $lootBonus
@@ -38,7 +37,7 @@ currentButton:
   name: $rankName
   lore:
   - §f§m-------------------------------
-  - §aThis is your current rank!
+  - §aЭто ваш текущий ранг!
   - $tierWarning
   - §f§m-------------------------------
   - $lootBonus
@@ -49,10 +48,10 @@ nextButton:
   name: $rankName
   lore:
   - §f§m-------------------------------
-  - §6This is the next rank you can unlock
-  - §aSelect it when you're ready!
-  - §6Costs $price §6$currencyName
-  - §fYou have §a$currentCurrency $currencyName
+  - §6Это следующий ранг, который вы можете разблокировать
+  - §aВыберите его когда будете готовы!
+  - §6Цена $price §6$currencyName
+  - §fУ вас §a$currentCurrency $currencyName
   - $tierWarning
   - §f§m-------------------------------
   - $lootBonus

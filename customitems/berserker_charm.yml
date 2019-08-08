@@ -1,10 +1,10 @@
 isEnabled: true
 material: TOTEM_OF_UNDYING
-name: '&bBerserker Charm'
+name: '&bЧары Берсерка'
 lore:
-- '&aLose yourself in the face of'
-- '&aoverwhelming adversity in more'
-- '&aways than one...'
+- '&aПотеряй себя перед лицом'
+- '&aнепреодолимой беды у которой'
+- '&aбольше чем один путь...'
 enchantments:
 - VANISHING_CURSE,1
 potionEffects:

@@ -1,8 +1,8 @@
 isEnabled: true
 material: WOODEN_SWORD
-name: '&4Magmaguy&c''s &2Toothpick'
+name: '&4Зубочистка &2Magmaguy'
 lore:
-- '&aIn nearly mint condition!'
+- '&aНа вкус как мята!'
 enchantments:
 - VANISHING_CURSE,1
 dropWeight: dynamic

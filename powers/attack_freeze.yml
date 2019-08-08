@@ -1,4 +1,4 @@
+freezeMessage: '&8[EM] &9Вы были заморожены!'
 isEnabled: true
-name: Cryomancer
+name: Криомансер
 effect: PACKED_ICE
-freezeMessage: '&8[EM] &9You''ve been frozen!'

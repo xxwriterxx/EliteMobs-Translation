@@ -1,32 +1,31 @@
 isEnabled: true
-name: Greg
-role: <Blacksmith>
+name: Грэг
+role: <Кузнец>
 profession: TOOLSMITH
 location: EliteMobs_adventurers_guild,285.5,93,261.5,179,0
 greetings:
-- Welcome to our shop!
-- Sell your goods here!
-- Fresh goods, just for you!
-- Got something to sell?
-- Want to buy something good?
-- Fresh goods every time!
+- Приветствую в нашем магазине!
+- Продавайте свои вещи тут!
+- Самые новые вещи, специально для вас!
+- Есть что-нибудь на продажу?
+- Хотите купить что-нибудь хорошее?
+- Новые товары каждый день!
 dialog:
-- Higher level mobs drop\nhigher value items!
-- Items with lots of \nenchantments are worth more!
-- Higher level mobs drop\nbetter items!
-- Higher level mobs have\na higher chance of dropping loot!
-- Elite mobs are attracted to\ngood armor, the better the\narmor the higher their
-  level!
-- Some items have special\npotion effects!
-- Some items have unique\neffects!
-- The hunter enchantment\nattracts elite mobs to your\nlocation!
-- Special weapons and armor\ndropped by elite mobs can\nbe sold here!
-- Higher guild ranks will\nincrease the quality of the\nloot from elite mobs!
+- Мобы более высокого уровня дропают\nболее ценные вещи!
+- Предметы с болишим количеством \nчар стоят дороже!
+- Мобы более высокого уровня дропают\nвещи получше!
+- Мобы более высокого уровня имеют\nбольший шанс дропа вещей!
+- Элитные мобы завися от\nхорошей брони, чем более хорошая\nброня - тем выше их уровень!
+- Некоторые предметы имеют\nспециальные эффекты зелий!
+- Некоторые предметы имеют\nуникальные эффекты!
+- Зачарование ОХОТНИК\nпривлекает элитных мобов к\nвашей позиции!
+- Специальные предметы и броня\nвыпавшие с элитных мобов\nмогут быть проданы здесь!
+- Высокие уровни приключенца\nувеличиваю качество лута\nс элитных мобов!
 farewell:
-- Thank you for your business!
-- Come back soon!
-- Come back any time!
-- Recommend this shop to your\nfriends!
+- С вами приятно иметь дело!
+- Возвращайтесь скорее!
+- Приходите в любое время!
+- Рекомендуйте этот магазин\nдрузьям!
 canMove: false
 canTalk: true
 activationRadius: 3.0

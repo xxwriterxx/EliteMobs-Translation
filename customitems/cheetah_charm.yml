@@ -1,10 +1,10 @@
 isEnabled: true
 material: GOLDEN_BOOTS
-name: '&bCheetah Charm'
+name: '&bЧары Гепарда'
 lore:
-- '&aCheetahs can reach speeds of'
-- '&a120 km/h... for about 60'
-- '&aseconds. Make them count!'
+- '&aГепарды могут достичь скорости'
+- '&a120 км/ч... за примерно 60'
+- '&aсекунд. С ними стоит считаться!'
 enchantments:
 - VANISHING_CURSE,1
 potionEffects:

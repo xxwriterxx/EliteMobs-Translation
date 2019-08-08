@@ -1,10 +1,10 @@
 isEnabled: true
 material: RABBIT_FOOT
-name: '&bRabbit Charm'
+name: '&bЧары кролика'
 lore:
-- '&aWith this charm, just about'
-- '&aany destination is only a hop,'
-- '&askip and a jump away!'
+- '&aС этими чарами любое расстояние'
+- '&aнипочем, просто прыгни'
+- '&aи беги дальше!'
 enchantments:
 - VANISHING_CURSE,1
 potionEffects:
