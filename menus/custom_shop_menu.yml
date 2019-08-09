@@ -1,4 +1,4 @@
-Shop name: '[EM] Buy or Sell'
+Shop name: '[EM] Купить или продать'
 Reroll button slot: 4
 Store item slots:
 - 9
@@ -46,11 +46,12 @@ Store item slots:
 - 51
 - 52
 - 53
-Full inventory message: '[EliteMobs] &4Your inventory is full! You can''t buy items
-  until you get some free space.'
+Full inventory message: '[EliteMobs] &4Ваш инвентарь полон! Вы не сможете купить предметы
+  пока не освободите инвентарь.'
 Reroll button:
   material: PLAYER_HEAD
-  name: '&4&lEliteMobs &r&cby &4&lMagmaGuy'
+  name: '&4&lЭлитные Мобы &r&cот &4&lMagmaGuy'
   lore:
-  - '&8Support the plugins you enjoy!'
+  - '&8Если вам понравился плагин,'
+  - '&8то вы можете поддержать создателя!'
   owner: magmaguy

@@ -1,45 +1,45 @@
-isEnabled: true
-name: Parents
-effect: SKELETON_SKULL
 deathMessage:
-- You monster!
-- My baby!
-- What have you done!?
-- Revenge!
-- Nooooo!
-- You will pay for that!
-- Eh, he was adopted
-- He's dead! Again!
-- He's deader than before!
-- You broke him!
+  - Ты монстр!
+  - Мой малыш!
+  - Что ты наделал!?
+  - Отмщение!
+  - Нееееет!
+  - Ты за это заплатишь!
+  - Эх, этот был приемным
+  - Он мертв! Опять!
+  - Он даже мертвее чем был!
+  - Ты его сломал!
 bossEntityDialog:
-- You're embarrassing me!
-- He's bullying me!
-- He's the one picking on me!
-- I can deal with this alone!
-- Leave me alone, I got this!
-- Stop following me around!
-- God this is so embarrassing!
-- He took my lunch money!
-- He's bullying me!
+  - Ты меня позоришь!
+  - Он меня оскорбляет!
+  - Он меня дразнит!
+  - Я сам могу с этим разобраться!
+  - Оставь меня, я сам справлюсь!
+  - Хватит меня преследовать!
+  - Боже, это такой позор!
+  - Он взял мои деньги на обед!
+  - Он меня обижает!
 zombieDad:
-- Get away from my son!
-- Stand up for yourself son!
-- I'll deal with him!
-- Stop picking on my son!
-- Why are you doing this?
-- I'll talk to your parents!
-- You go kiddo!
-- Show him who's boss kiddo!
-- Nice punch kiddo!
+  - Отойди от моего сына!
+  - Ты должен постоять за себя, сын!
+  - Я с ним разберусь!
+  - Хватит дразнить моего сына!
+  - Зачем ты это делаешь?
+  - Я поговорю с твоими родителями!
+  - Давай, сынок!
+  - Покажи ему кто тут босс, сынок!
+  - Отличный удар, сынок!
 zombieMom:
-- Hands off my child!
-- Are you hurt sweetie?
-- Did he hurt you sweetie?
-- Let me see that booboo sweetie
-- I'll talk to his parents!
-- You forgot your jacket sweetie!
-- Posture, sweetheart
-- Break it up!
-- Stop this!
-- Did you take out the garbage?
+  - Руки прочь от моего ребенка!
+  - Ты поранился, сладкий?
+  - Ты поранил моего сынулю?
+  - Покажи свое бобо, сладкий
+  - Я поговорю с твоими родителями!
+  - Ты забыл свой рюкзак, сладкий!
+  - Не горбись, солнышко
+  - А ну хватит!
+  - Прекрати!
+  - Ты это нашел на помойке?
+isEnabled: true
+name: Родители
+effect: SKELETON_SKULL

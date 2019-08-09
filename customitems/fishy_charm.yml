@@ -1,9 +1,9 @@
 isEnabled: true
 material: COD
-name: '&bFishy Charm'
+name: '&bРыбьи Чары'
 lore:
-- '&aThere''s just something not'
-- '&aquite right with this one...'
+- '&aС этим абсолютно точно что-то'
+- '&aне так...'
 enchantments:
 - VANISHING_CURSE,1
 potionEffects:

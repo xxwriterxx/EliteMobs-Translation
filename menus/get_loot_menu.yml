@@ -1,33 +1,34 @@
-Shop name: '[EM] Procedural Item Shop'
-tierTranslation: Tier
-itemFilterTranslation: Filter by items of this rank.
+Shop name: '[EM] Магазин Элитных Вещей'
+tierTranslation: Тир
+itemFilterTranslation: Фильтровать вещи по рангу.
 Info button:
   material: PLAYER_HEAD
-  name: '&4&lEliteMobs &r&cby &4&lMagmaGuy'
+  name: '&4&lЭлитные Мобы &r&cот &4&lMagmaGuy'
   lore:
-  - '&8Support the plugins you enjoy!'
+  - '&8Если вам понравился плагин,'
+  - '&8то вы можете поддержать создателя!'
   owner: magmaguy
 Left button:
   material: PLAYER_HEAD
-  name: Previous Item Ranks
+  name: Вещи предыдущего ранга
   lore:
   - ''
   owner: MHF_ArrowLeft
 Right button:
   material: PLAYER_HEAD
-  name: Next Item Ranks
+  name: Вещи следующего ранга
   lore:
   - ''
   owner: MHF_ArrowRight
 previousLoot:
   material: PLAYER_HEAD
-  name: Previous Loot Page
+  name: Предыдущая страница
   lore:
   - ''
   owner: MHF_ArrowLeft
 nextLoot:
   material: PLAYER_HEAD
-  name: Next Loot Page
+  name: Следующая страница
   lore:
   - ''
   owner: MHF_ArrowRight

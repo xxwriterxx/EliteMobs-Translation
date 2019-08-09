@@ -1,9 +1,9 @@
 isEnabled: true
 material: ELYTRA
-name: '&bOwl Charm'
+name: '&bЧары Совы'
 lore:
-- '&aBecome the ultimate nocturnal'
-- '&apredator!'
+- '&aСтаньте ультимативным ночным'
+- '&aхищником!'
 enchantments:
 - VANISHING_CURSE,1
 potionEffects:

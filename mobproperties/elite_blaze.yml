@@ -1,5 +1,5 @@
 isEnabled: true
 entityType: BLAZE
-name: '&fLvl &2$level &fElite &eBlaze'
+name: '&fЭлитный &eИфрит &2$level &fур.'
 deathMessages:
-- $player was lit ablaze by $entity!
+- $entity &rпревратил $player &rв золу!

@@ -1,5 +1,5 @@
 isEnabled: true
 entityType: STRAY
-name: '&fLvl &2$level &fElite &bStray'
+name: '&fЭлитный &bЗимогор &2$level &fур.'
 deathMessages:
-- $player was led astray by $entity!
+- $entity &rсбил игрока $player &rс пути!

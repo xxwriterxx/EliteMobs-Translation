@@ -1,4 +1,4 @@
 isEnabled: true
-name: Mining Fatigue
+name: Медленное копание
 onHitDuration: 10
 value: 10.0

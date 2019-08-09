@@ -1,6 +1,6 @@
 isEnabled: true
 entityType: PIG_ZOMBIE
-name: '&fLvl &2$level &fElite &6Zombie Pigman'
+name: '&fЭлитный &6Свинозомби &2$level &fур.'
 deathMessages:
-- $player was mobbed to death by $entity!
-- $entity got $player's bacon!
+- $player &rбыл задавлен толпой $entity &rнасмерть!
+- $entity &rпопробовал бекон игрока $player &rна вкус!

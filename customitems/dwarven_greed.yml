@@ -1,11 +1,11 @@
 isEnabled: true
 material: WOODEN_PICKAXE
-name: '&4Dwarven Greed'
+name: '&4Жадность Дворфа'
 lore:
-- '&cThose who delve too greedily'
-- '&cand too deep may wake ancient'
-- '&chorrors of shadow and flame'
-- '&cbest left undisturbed.'
+- '&cТе кто копают с такой жадностью'
+- '&cи так глубоко, что могут случайно'
+- '&cразбудить ужасы и тени пламени,'
+- '&cкоторых лучше не беспокоить.'
 enchantments:
 - LOOT_BONUS_BLOCKS,4
 - DURABILITY,6

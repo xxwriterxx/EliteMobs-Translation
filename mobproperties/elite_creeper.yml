@@ -1,5 +1,5 @@
 isEnabled: true
 entityType: CREEPER
-name: '&fLvl &2$level &fElite &2Creeper'
+name: '&fЭлитный &2Крипер &2$level &fур.'
 deathMessages:
-- $player was blasted away by $entity!
+- $entity &rподорвал $player &r!

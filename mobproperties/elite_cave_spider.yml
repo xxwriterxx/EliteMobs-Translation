@@ -1,5 +1,5 @@
 isEnabled: true
 entityType: CAVE_SPIDER
-name: '&fLvl &2$level &fElite &3Cave Spider'
+name: '&fЭлитный &3Пещерный Паук &2$level &fур.'
 deathMessages:
-- $player became entangled in $entity's web!
+- $entity &rзакутал $player &rв ядовитую паутину!

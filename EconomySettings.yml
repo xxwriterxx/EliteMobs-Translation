@@ -1,12 +1,12 @@
 enableEconomy: true
 itemResaleValue: 5.0
-currencyName: Elite Coins
+currencyName: Элитные монеты
 useVault - not recommended: false
 enableCurrencyShower: true
 currencyShowerTierMultiplier: 1.0
-chatCurrencyShowerMessage: '&7[EM] You''ve picked up &a$amount $currency_name!'
-actionbarCurrencyShowerMessage: '&7[EM] You''ve picked up &a$amount $currency_name!'
-adventurersGuildNotificationMessage: '&7[EM] Extra spending money? Try &a/ag &7or
+chatCurrencyShowerMessage: '&7[EM] Вы подобрали &a$amount $currency_name!'
+actionbarCurrencyShowerMessage: '&7[EM] Вы подобрали &a$amount $currency_name!'
+adventurersGuildNotificationMessage: '&7[EM] Появились деньги? Попробуй &a/ag &7или
   &a/em shop&7!'
 lootShowerMaterials:
   '1': GOLD_NUGGET

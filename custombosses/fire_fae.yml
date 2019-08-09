@@ -1,6 +1,6 @@
 isEnabled: true
 entityType: VEX
-name: '&cFire Fae'
+name: '&cЗлобная Фея Огня'
 level: dynamic
 timeout: 0
 isPersistent: false

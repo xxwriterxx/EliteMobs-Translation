@@ -1,6 +1,6 @@
 isEnabled: true
 entityType: HUSK
-name: '&6The Returned'
+name: '&6Вернулся с того света'
 level: dynamic
 timeout: 0
 isPersistent: false
