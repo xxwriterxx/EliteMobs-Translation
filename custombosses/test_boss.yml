@@ -1,6 +1,6 @@
 isEnabled: true
 entityType: ZOMBIE
-name: '&eTest boss'
+name: '&e试验品'
 level: dynamic
 timeout: 10
 isPersistent: false
@@ -15,10 +15,10 @@ offHand: SHIELD
 isBaby: false
 powers:
 - invulnerability_knockback.yml
-spawnMessage: A test boss has been spawned!
-deathMessage: A test boss has been slain by $players!
-escapeMessage: A test boss entity has escaped!
-locationMessage: 'Test entity: $location'
+spawnMessage: 试验品boss已生成!
+deathMessage: 试验品boss被$players杀死了!
+escapeMessage: 试验品boss已逃脱!
+locationMessage: '试验品boss位置: $location'
 uniqueLootList:
 - magmaguys_toothpick.yml
 dropsEliteMobsLoot: true
@@ -26,6 +26,6 @@ dropsVanillaLoot: true
 trails:
 - BARRIER
 onDamageMessages:
-- I've hit you!
+- 我击中你了!
 onDamagedMessages:
-- I've been hit!
+- 我受伤了!

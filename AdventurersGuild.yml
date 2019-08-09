@@ -3,18 +3,18 @@ Add max health when unlocking higher guild ranks: true
 Adventurer's Guild world name: EliteMobs_adventurers_guild
 Guild world coordinates: 208.5,88,236.5,-80,0
 Teleport players to the adventurers guild using /ag: true
-'0': '&8Commoner'
-'1': '&fFresh Meat'
-'2': '&fRookie'
-'3': '&fAdventurer'
-'4': '&2Journeyman'
-'5': '&2Elite Adventurer'
-'6': '&2Veteran'
-'7': '&1Slayer'
-'8': '&1Exterminator'
-'9': '&5&lElite Hunter'
-'10': '&5Hero'
-'11': '&6&l&oLegend'
+'0': '&8平民'
+'1': '&f得过且过的冒险家'
+'2': '&f普通冒险家'
+'3': '&f专业冒险家'
+'4': '&2精英冒险家'
+'5': '&2大师冒险家'
+'6': '&2猎血者'
+'7': '&1屠戮者'
+'8': '&1歼灭者'
+'9': '&5&l精英猎人'
+'10': '&5英雄'
+'11': '&6&l&o传说'
 limitLootBasedOnGuildTier: true
-lootLimiterMessage: '&7[EM] &cYou must unlock the next guild rank through /ag to loot
-  better items!'
+lootLimiterMessage: '&7[EM] &c你必须通过 /ag 升级冒险者公会才能获得更好的战利品!'
+alwaysUseNpcsWhenAvailable: true

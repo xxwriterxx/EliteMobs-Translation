@@ -1,10 +1,10 @@
 isEnabled: true
 material: TOTEM_OF_UNDYING
-name: '&bBerserker Charm'
+name: '&b狂暴护符'
 lore:
-- '&aLose yourself in the face of'
-- '&aoverwhelming adversity in more'
-- '&aways than one...'
+- '&a面对势不可挡的逆境'
+- '&a你陷入了狂暴'
+- '&a失去了自我...'
 enchantments:
 - VANISHING_CURSE,1
 potionEffects:

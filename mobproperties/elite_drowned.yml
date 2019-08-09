@@ -1,6 +1,6 @@
 isEnabled: true
 entityType: DROWNED
-name: '&fLvl &2$level &fElite &3Drowned'
+name: '&2$level级&f精英&3溺尸'
 deathMessages:
-- $player has been brought down to the depths by $entity!
-- $player has been drowned by $entity!
+- $player被$entity扯入了万丈深渊!
+- $player和$entity一同被水淹没!

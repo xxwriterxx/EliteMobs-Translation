@@ -1,5 +1,5 @@
 isEnabled: true
 entityType: HUSK
-name: '&fLvl &2$level &fElite &7Husk'
+name: '&2$level级&f精英&7尸壳'
 deathMessages:
-- $player was hollowed out by $entity!
+- $player的身体被$entity掏空!

@@ -1,21 +1,18 @@
-questTierSelectorMenuTitle: '[EM] Guild Rank Selection'
-lowTierWarning: '&cElites can''t drop better loot!'
-normalTierWarning: '&aElite can drop better loot!'
-notEnoughCurrencyMessage: '&7[EliteMobs] &4You don''t have enough Elite Coins ($neededAmount
-  $currencyName)! Sell some Elite Mob loot to [/em shop]! You have $currentAmount
-  $currencyName.'
-unlockMessage: "&7[EliteMobs] &aYou have unlocked the $rankName &arank for $price\
-  \ $currencyName. \n&6Happy hunting!"
-questCompleteBroadcastMessage: '&7[EliteMobs] &a$player &ahas reached the $rankName
-  &aguild rank!'
-failedMessage: '&7[EliteMobs] &cYou need to unlock other ranks first!'
+questTierSelectorMenuTitle: '[EM] 选择公会等级'
+lowTierWarning: '&c精英怪物不会掉落更好的战利品!'
+normalTierWarning: '&a精英怪物会掉落更好的战利品!'
+notEnoughCurrencyMessage: '&7[精英怪物] &4你的精英币不足($neededAmount $currencyName)! 请出售一些精英怪物装备来换取精英币[/em
+  shop]! 你现在拥有 $currentAmount $currencyName.'
+unlockMessage: "&7[精英怪物] &a你解锁了$rankName&a级公会$price $currencyName. \n&6狩猎愉快!"
+questCompleteBroadcastMessage: '&7[精英怪物] &a$player&a达到了$rankName &a公会等级!'
+failedMessage: '&7[精英怪物] &c你需要先解锁其他公会等级!'
 unlockedButton:
   material: GRAY_STAINED_GLASS_PANE
   name: $rankName
   lore:
   - §f§m-------------------------------
-  - §aThis rank is unlocked!
-  - §fYou can select it.
+  - §a该等级未解锁!
+  - §f你暂时无法选择.
   - $tierWarning
   - §f§m-------------------------------
   - $lootBonus
@@ -26,8 +23,8 @@ lockedButton:
   name: $rankName
   lore:
   - §f§m-------------------------------
-  - §aThis rank is locked!
-  - §cYou need the $previousRank rank first!
+  - §a该等级已解锁!
+  - §c你需要$previousRank级公会!
   - $tierWarning
   - §f§m-------------------------------
   - $lootBonus
@@ -38,7 +35,7 @@ currentButton:
   name: $rankName
   lore:
   - §f§m-------------------------------
-  - §aThis is your current rank!
+  - §a该等级为你当前的公会等级!
   - $tierWarning
   - §f§m-------------------------------
   - $lootBonus
@@ -49,10 +46,10 @@ nextButton:
   name: $rankName
   lore:
   - §f§m-------------------------------
-  - §6This is the next rank you can unlock
-  - §aSelect it when you're ready!
-  - §6Costs $price §6$currencyName
-  - §fYou have §a$currentCurrency $currencyName
+  - §6这是你可以解锁的下一级公会
+  - §a准备好了的话就选择这个等级吧!
+  - §6消耗 $price §6$currencyName
+  - §f你拥有 §a$currentCurrency $currencyName
   - $tierWarning
   - §f§m-------------------------------
   - $lootBonus

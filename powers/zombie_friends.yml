@@ -1,40 +1,40 @@
 isEnabled: true
-name: Friends
+name: 僵尸朋友
 effect: ZOMBIE_HEAD
 originalEntityDialog:
-- Let's play ZombieCraft later!
-- Feel the power of friendship!
-- El pueblo, unido!
-- I called my friends over!
-- BFF power!
+- 让我们玩ZombieCraft吧!
+- 感受友谊的威力吧!
+- 团结起来!
+- 我要叫我的朋友来玩!
+- 无中生友!
 - One for all!
-- Get him!
-- Screw you guys, I'm going home!
+- 抓住他!
+- 不和你玩了, 我要回家了!
 friendDeathMessage:
-- Noooo!
-- Mediocre!
-- Zacharias!
-- He's deader than before!
-- Vengeance!
-- Revenge!
-- I can't believe you've done this.
+- 不!!!
+- 你终究只是个凡人!
+- 撒迦利亚!
+- 不得不承认，现在是你比较强!
+- 我已燃起复仇之火!
+- 我会报仇的!
+- 难以置信.
 reinforcementDialog:
-- Don't mess with our friends!
-- We got your back Zach!
-- Backup has arrived!
-- One for all, one for all!
-- This is going to be easy!
-- Give up we have the high ground!
-- You wanna go bruv?
-- Worldstaaaaaaaaar!
-- What are you doing to our friend
-- Feel the power of friendship!
-- Friendship power at 100%!
-- Zombies, assemble!
-- We got your back mate!
-- Together we are better!
-- The more the merrier!
-- I got you fam!
-- All for one!
+- 不要破坏我们的友谊!
+- 我们得到了扎克的支持!
+- 后援已到!
+- One for all,one for all!
+- 这太简单了!
+- 放弃吧,我们已经占领了高地!
+- 你想要离开吗,兄弟?
+- 世界之星!
+- 你想要对我们的朋友干什么?
+- 感受友谊的威力吧!
+- 友谊能量100%!
+- 集合,僵尸们!
+- 我们找到你的队友了!
+- 团结就是力量!
+- 人越多越好!
+- 我的家人,我找到你了!
+- 万众一心，无坚不摧!
 friend1Name: 'BFF #1'
 friend2Name: 'BFF #2'

@@ -1,7 +1,14 @@
+#是否一直显示精英怪物的名称
 alwaysShowEliteMobNameTags: false
+#超级融合生物所需堆叠数
 superMobStackAmount: 50
+#是否防止精英苦力怕炸死动物
 preventEliteCreeperDamageToPassiveMobs: true
+#是否使用标题显示权限不足的消息
 useTitlesForMissingPermissionMessages: true
+#是否隐藏附魔属性
 hideEnchantmentAttributes: false
+#是否防止以命名的生物转化为精英怪物？（如Mythicmobs的怪物）
 preventEliteMobConversionOfNamedMobs: true
+#是否启用高度兼容模式？
 enableHighCompatibilityMode: false

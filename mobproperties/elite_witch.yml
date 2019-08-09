@@ -1,6 +1,6 @@
 isEnabled: true
 entityType: WITCH
-name: '&fLvl &2$level &fElite &5Witch'
+name: '&2$level级&f精英&5女巫'
 deathMessages:
-- $player became $entity's test subject!
-- $player has been bewitched by $entity!
+- $player成为了$entity的实验对象!
+- $player被$entity的魔法杀死了!

@@ -8,13 +8,13 @@ itemLoreStructure:
 - $customLore
 - $itemSource
 - $loreResaleValue
-- Elite Mobs drop
+- 精英怪物装备
 - §m----------------------
-- 'Tier $tier '
-shopSourceItemLore: Purchased from a store
-mobSourceItemLore: Looted from $mob
-loreWorth: Worth $worth $currencyName
-loreResaleValue: Sells for $resale $currencyName
+- 品质：$tier
+shopSourceItemLore: 从商店购买而得
+mobSourceItemLore: 从精英$mob身上掠夺而得
+loreWorth: 价值$worth $currencyName
+loreResaleValue: 出售可获得$resale $currencyName
 flatDropRate: 0.25
 tierIncreaseDropRate: 0.05
 proceduralItemDropWeight: 90.0
@@ -28,5 +28,5 @@ defaultExperienceMultiplier: 1.0
 maximumLootTier: 100
 useEliteEnchantments: true
 doRareDropsEffect: true
-eliteEnchantmentLoreString: '&6Elite'
+eliteEnchantmentLoreString: '&6精英'
 useHoesAsWeapons: false

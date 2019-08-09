@@ -1,5 +1,5 @@
 isEnabled: true
 entityType: BLAZE
-name: '&fLvl &2$level &fElite &eBlaze'
+name: '&f&2$level级&f精英&e烈焰人'
 deathMessages:
-- $player was lit ablaze by $entity!
+- $player被$entity的烈火燃成灰烬!

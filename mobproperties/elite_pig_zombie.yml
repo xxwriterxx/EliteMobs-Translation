@@ -1,6 +1,6 @@
 isEnabled: true
 entityType: PIG_ZOMBIE
-name: '&fLvl &2$level &fElite &6Zombie Pigman'
+name: '&2$level级&f精英&6僵尸猪人'
 deathMessages:
-- $player was mobbed to death by $entity!
-- $entity got $player's bacon!
+- $player被 $entity围殴致死!
+- $entity分得了$player的一杯羹!

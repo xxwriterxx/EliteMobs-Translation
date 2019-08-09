@@ -1,5 +1,5 @@
 isEnabled: true
 entityType: STRAY
-name: '&fLvl &2$level &fElite &bStray'
+name: '&2$level级&f精英&b流髑'
 deathMessages:
-- $player was led astray by $entity!
+- $player被$entity引入歧途!

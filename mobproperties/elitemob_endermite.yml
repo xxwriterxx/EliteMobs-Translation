@@ -1,5 +1,5 @@
 isEnabled: true
 entityType: ENDERMITE
-name: '&fLvl &2$level &fElite &7Endermite'
+name: '&2$level级&f精英&7末影螨'
 deathMessages:
-- $entity is to $player what David is to Goliath!
+- $entity让$player明白了大卫是如何打败巨人歌利亚的!

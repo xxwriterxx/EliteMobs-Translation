@@ -1,6 +1,6 @@
 isEnabled: true
 entityType: ZOMBIE
-name: '&4Zombie King'
+name: '&4僵尸王'
 level: dynamic
 timeout: 30
 isPersistent: true
@@ -17,10 +17,10 @@ powers:
 - flamethrower.yml
 - summon_the_returned.yml
 - spirit_walk.yml
-spawnMessage: '&cThe Zombie King has been sighted!'
-deathMessage: '&aThe Zombie King has been slain by $players!'
-escapeMessage: '&4The Zombie King has escaped!'
-locationMessage: '&cZombie King: $location'
+spawnMessage: '&c僵尸王出现了!'
+deathMessage: '&a僵尸王被$players杀死了!'
+escapeMessage: '&4僵尸王已逃跑!'
+locationMessage: '&c僵尸王位置: $location'
 uniqueLootList:
 - zombie_kings_axe.yml:1
 dropsEliteMobsLoot: true

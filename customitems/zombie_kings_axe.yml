@@ -1,10 +1,10 @@
 isEnabled: true
 material: GOLDEN_AXE
-name: '&4Zombie King''s Axe'
+name: '&4尸王之斧'
 lore:
-- The axe of the one Zombies
-- call their king.
-- The bloodlust is palpable.
+- 僵尸王
+- 所用过的斧头.
+- 这上面沾满了杀戮之血.
 enchantments:
 - DAMAGE_ALL,10
 - DAMAGE_UNDEAD,5

@@ -1,9 +1,9 @@
 isEnabled: true
 material: LEATHER
-name: '&bSalamander Charm'
+name: '&b沙罗曼蛇护符'
 lore:
-- '&aAlmost as hot as MagmaGuy''s'
-- '&anew mixtape!'
+- '&a和插件作者'
+- '&a新的混音带一样火热!'
 enchantments:
 - VANISHING_CURSE,1
 potionEffects:

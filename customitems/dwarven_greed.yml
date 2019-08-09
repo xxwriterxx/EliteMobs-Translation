@@ -1,11 +1,11 @@
 isEnabled: true
 material: WOODEN_PICKAXE
-name: '&4Dwarven Greed'
+name: '&4矮人的贪婪之镐'
 lore:
-- '&cThose who delve too greedily'
-- '&cand too deep may wake ancient'
-- '&chorrors of shadow and flame'
-- '&cbest left undisturbed.'
+- '&c那些贪得无厌的人'
+- '&c可能会唤醒'
+- '&c古老的暗影之魂'
+- '&c和对火焰的恐惧之心.'
 enchantments:
 - LOOT_BONUS_BLOCKS,4
 - DURABILITY,6

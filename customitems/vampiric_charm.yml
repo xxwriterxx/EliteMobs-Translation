@@ -1,10 +1,10 @@
 isEnabled: true
 material: STICK
-name: '&bVampiric Charm'
+name: '&b吸血鬼护符吸血鬼护符'
 lore:
-- '&aNo one can remember where this'
-- '&acame from, and no one can,'
-- '&aforget how dangerous it is...'
+- '&a没有人知道'
+- '&a这个护符来自哪,'
+- '&a但也没有人会忘记这个护符造成的危险...'
 enchantments:
 - VANISHING_CURSE,1
 potionEffects:

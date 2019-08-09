@@ -1,10 +1,10 @@
 isEnabled: true
 material: GOLDEN_BOOTS
-name: '&bCheetah Charm'
+name: '&b猎豹护符'
 lore:
-- '&aCheetahs can reach speeds of'
-- '&a120 km/h... for about 60'
-- '&aseconds. Make them count!'
+- '&a猎豹的速度可以达到'
+- '&a120 km/h... '
+- '&a而这只需要60秒就能做到.'
 enchantments:
 - VANISHING_CURSE,1
 potionEffects:

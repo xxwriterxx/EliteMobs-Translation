@@ -1,8 +1,8 @@
 isEnabled: true
 material: GLASS_BOTTLE
-name: '&bFirefly Charm'
+name: '&b萤火虫护符'
 lore:
-- '&aLight up the night!'
+- '&a照亮黑暗!'
 enchantments:
 - VANISHING_CURSE,1
 potionEffects:

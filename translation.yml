@@ -1,25 +1,20 @@
-Missing permission message title: I'm afraid I can't let you do that, $username.
-Missing permission message subtitle: 'You need the following permission: $permission'
-Missing permission message: '[EliteMobs] You may not run this command.'
-Valid commands message: 'Valid commands:'
-Invalid command message: 'Command not recognized. Valid commands:'
-Economy pay message: You have paid &2$amount_sent $currency_name &fto $receiver
-Economy currency left message: You now have &2$amount_left $currency_name
-Economy money from payment message: You have received &2$amount_sent $currency_name
-  &ffrom $sender
-Economy payment for negative value: '&cNice try. This plugin doesn''t make the same
-  mistake as some banks have in the past.'
-Economy payment insuficient currency: '&cYou don''t have enough $currency_name to
-  do that!'
-Economy invalid pay command syntax: '&cInput not valid. Command format: &e/em pay
-  [playerName] [amount]'
-Wallet command message: You have &2$balance $currency_name
-Shop buy message: '&aYou have bought $item_name &afor $item_value $currency_name!'
-Shop current balance message: '&aYou have $currency_amount $currency_name.'
-Shop insufficient funds message: '&cYou don''t have enough $currency_name!'
-Shop item cost message: That item costs &c$item_value $currency_name.
-Shop sell message: '&aYou have sold $item_name &afor $currency_amount $currency_name!'
-Shop sale instructions: '&cYou can only sell EliteMobs loot here! (Armor / weapons
-  dropped from elites showing a value on their lore)'
-Teleport time left: '&7[EM] Teleporting in &a$time &7seconds...'
-Teleport cancelled: '&7[EM] &cTeleport interrupted!'
+Missing permission message title: 抱歉，我不能让你这么做， $username.
+Missing permission message subtitle: '你需要以下权限: $permission'
+Missing permission message: '[精英怪物] 你不能使用这个指令.'
+Valid commands message: '有效指令:'
+Invalid command message: '指令错误. 有效指令:'
+Economy pay message: 你支付了 &2$amount_sent $currency_name &f给 $receiver
+Economy currency left message: 你现在拥有 &2$amount_left $currency_name
+Economy money from payment message: 你从 $sender 处获得了 &2$amount_sent $currency_name
+Economy payment for negative value: '&c别想了. 插件不会让你这么做的.'
+Economy payment insuficient currency: '&c你没有足够多的 $currency_name 来这么做!'
+Economy invalid pay command syntax: '&c无效输入值. 指令格式: &e/em pay [玩家名] [数量]'
+Wallet command message: 你现在拥有 &2$balance $currency_name
+Shop buy message: '&a你用$item_value $currency_name购买了 $item_name !'
+Shop current balance message: '&a你拥有 $currency_amount $currency_name.'
+Shop insufficient funds message: '&c你没有足够多的 $currency_name!'
+Shop item cost message: 那件物品需要 &c$item_value $currency_name.
+Shop sell message: '&a你出售了 $item_name &a，获得了 $currency_amount $currency_name!'
+Shop sale instructions: '&c你只能在这里出售精英怪战利品! (精英怪掉落的 护甲 / 武器)'
+Teleport time left: '&7[EM] 将在 &a$time &7后进行传送...'
+Teleport cancelled: '&7[EM] &c传送被终止!'

@@ -1,6 +1,6 @@
 isEnabled: true
 entityType: SPIDER
-name: '&fLvl &2$level &fElite &7Spider'
+name: '&2$level级&f精英&7蜘蛛'
 deathMessages:
-- $player became entangled in $entity's web!
-- $entity has devoured $player!
+- $player被$entity困在了蜘蛛网中无法动弹!
+- $entity吞下了$player!

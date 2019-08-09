@@ -1,4 +1,4 @@
-isEnabled: true
-name: Thunderous
-effect: HORN_CORAL
 delayBetweenStrikes: 15
+isEnabled: true
+name: 雷击
+effect: HORN_CORAL
