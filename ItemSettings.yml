@@ -11,10 +11,10 @@ itemLoreStructure:
 - Elite Mobs drop
 - §m----------------------
 - 'Tier $tier '
-shopSourceItemLore: Purchased from a store
-mobSourceItemLore: Looted from $mob
-loreWorth: Worth $worth $currencyName
-loreResaleValue: Sells for $resale $currencyName
+shopSourceItemLore: Acquistato da un negozio
+mobSourceItemLore: Ottenuto da $mob
+loreWorth: Valore $worth $currencyName
+loreResaleValue: Venduto per $resale $currencyName
 flatDropRate: 0.25
 tierIncreaseDropRate: 0.05
 proceduralItemDropWeight: 90.0

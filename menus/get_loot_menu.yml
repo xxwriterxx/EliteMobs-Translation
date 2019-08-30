@@ -1,11 +1,11 @@
-Shop name: '[EM] Procedural Item Shop'
+Shop name: '[EM] Negozio Articoli Procedurali'
 tierTranslation: Tier
-itemFilterTranslation: Filter by items of this rank.
+itemFilterTranslation: Filtra per oggetti di questo rank.
 Info button:
   material: PLAYER_HEAD
   name: '&4&lEliteMobs &r&cby &4&lMagmaGuy'
   lore:
-  - '&8Support the plugins you enjoy!'
+  - '&8Supporta i plugin che ti piacciono!'
   owner: magmaguy
 Left button:
   material: PLAYER_HEAD

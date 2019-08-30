@@ -1,19 +1,19 @@
-questTierSelectorMenuTitle: '[EM] Quest Tier Selection'
-questSelectorMenuTitle: '[EM] Quest Selection'
-cancelQuestMessage1: '&c&l&m&o---------------------------------------------&cYou can
-  only have one quest at a time! Cancelling your ongoing quest will reset quest progress!'
-cancelQuestMessage2: '&2[Click here to cancel current quest!]'
-cancelQuestMessage3: '&7You can see your quest status with the command &a/em quest
+questTierSelectorMenuTitle: '[EM] Seleziona Grado Missioni'
+questSelectorMenuTitle: '[EM] Seleziona Missione'
+cancelQuestMessage1: '&c&l&m&o---------------------------------------------&cPuoi
+  soltanto avere una missione alla volta! Cancellare la tua attuale missione ne resetterà il progresso!'
+cancelQuestMessage2: '&2[Clicka qui per annullare la missione corrente!]'
+cancelQuestMessage3: '&7Puoi controllare lo stato della missione con il commando &a/em quest
   status&c&l&m&o---------------------------------------------'
-questCancelMessage: '&7[EliteMobs] &cYour ongoing quest has been cancelled!'
-questStartTitle: You have accepted a quest!
-questStartSubtitle: Slay $objectiveAmount $objectiveName
-questCompleteTitle: Quest complete!
-questCompleteSubtitle: You have slain $objectiveAmount $objectiveName
-bossBarObjective: Slay $objectiveAmount $objectiveName
-questRewardMessage: '&7[EM] &aQuest completed! &6Your reward is &2$reward $currencyName'
-questCompleteBroadcastMessage: '&7[EM] $player &2has completed a $rank &2quest!'
-questStatusMessage: '&7[EM] &aYou''ve slain &a$currentAmount &f/ &c$objectiveAmount
+questCancelMessage: '&7[EliteMobs] &cLa tua attuale missione è stata annullata!'
+questStartTitle: Hai accettato la missione!
+questStartSubtitle: Uccidi $objectiveAmount $objectiveName
+questCompleteTitle: Missione completata!
+questCompleteSubtitle: Hai ucciso $objectiveAmount $objectiveName
+bossBarObjective: Uccidi $objectiveAmount $objectiveName
+questRewardMessage: '&7[EM] &aMissione completata! &6La tua ricompensa è &2$reward $currencyName'
+questCompleteBroadcastMessage: '&7[EM] $player &2ha completato una &2missione $rank !'
+questStatusMessage: '&7[EM] &aHai ucciso &a$currentAmount &f/ &c$objectiveAmount
   &a$objectiveName'
 validTierButton:
   material: GREEN_STAINED_GLASS_PANE

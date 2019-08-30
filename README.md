@@ -6,3 +6,5 @@ This repository servers as the central repositiories for the transltions made th
  Russian version: myfbone
  
  German version: Cupax3
+ 
+ Italian version: virgil31

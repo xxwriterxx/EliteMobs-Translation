@@ -1,25 +1,25 @@
-Missing permission message title: I'm afraid I can't let you do that, $username.
-Missing permission message subtitle: 'You need the following permission: $permission'
-Missing permission message: '[EliteMobs] You may not run this command.'
-Valid commands message: 'Valid commands:'
-Invalid command message: 'Command not recognized. Valid commands:'
-Economy pay message: You have paid &2$amount_sent $currency_name &fto $receiver
-Economy currency left message: You now have &2$amount_left $currency_name
-Economy money from payment message: You have received &2$amount_sent $currency_name
-  &ffrom $sender
-Economy payment for negative value: '&cNice try. This plugin doesn''t make the same
-  mistake as some banks have in the past.'
-Economy payment insuficient currency: '&cYou don''t have enough $currency_name to
-  do that!'
-Economy invalid pay command syntax: '&cInput not valid. Command format: &e/em pay
-  [playerName] [amount]'
-Wallet command message: You have &2$balance $currency_name
-Shop buy message: '&aYou have bought $item_name &afor $item_value $currency_name!'
-Shop current balance message: '&aYou have $currency_amount $currency_name.'
-Shop insufficient funds message: '&cYou don''t have enough $currency_name!'
-Shop item cost message: That item costs &c$item_value $currency_name.
-Shop sell message: '&aYou have sold $item_name &afor $currency_amount $currency_name!'
-Shop sale instructions: '&cYou can only sell EliteMobs loot here! (Armor / weapons
-  dropped from elites showing a value on their lore)'
-Teleport time left: '&7[EM] Teleporting in &a$time &7seconds...'
-Teleport cancelled: '&7[EM] &cTeleport interrupted!'
+Missing permission message title: Temo di non poterti permettere di farlo, $username.
+Missing permission message subtitle: 'Hai bisogno del seguente permesso: $permission'
+Missing permission message: '[EliteMobs] Non puoi eseguire questo comando.'
+Valid commands message: 'Comandi validi:'
+Invalid command message: 'Comando non riconosciuto. Comandi validi:'
+Economy pay message: Hai pagato &2$amount_sent $currency_name &fa $receiver
+Economy currency left message: Ora possiedi &2$amount_left $currency_name
+Economy money from payment message: Hai ricevuto &2$amount_sent $currency_name
+  &fda $sender
+Economy payment for negative value: '&cBel tentativo. Questo plugin non commette lo 
+  stesso errore come altre banche hanno fatto in passato.'
+Economy payment insuficient currency: '&cNon possiedi abbastanza $currency_name per
+  farlo!'
+Economy invalid pay command syntax: '&cInput non valido. Formato del comando: 
+  &e/em pay [playerName] [amount]'
+Wallet command message: Possiedi &2$balance $currency_name
+Shop buy message: '&aHai acquistato $item_name &aper $item_value $currency_name!'
+Shop current balance message: '&aPossiedi $currency_amount $currency_name.'
+Shop insufficient funds message: '&cNon hai abbastanza $currency_name!'
+Shop item cost message: Quell''oggetto costa &c$item_value $currency_name.
+Shop sell message: '&aHai venduto $item_name &aper $currency_amount $currency_name!'
+Shop sale instructions: '&cPuoi vendere soltanto il loot degli EliteMobs qui! 
+  (Armature / armi lasciate dagli elites che hanno un valore nella loro descrizione)'
+Teleport time left: '&7[EM] Teletrasporto in &a$time &7secondi...'
+Teleport cancelled: '&7[EM] &cTeletrasporto interrotto!'
