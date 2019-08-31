@@ -14,7 +14,7 @@ Teleport players to the adventurers guild using /ag: true
 '8': '&1Sterminatore'
 '9': '&5&lCacciatore di Elite'
 '10': '&5Eroe'
-'11': '&6&l&oLegenda'
+'11': '&6&l&oLeggenda'
 limitLootBasedOnGuildTier: true
 lootLimiterMessage: '&7[EM] &cDevi sbloccare il prossimo rank di gilda con /ag 
   per ottenere oggetti migliori!'

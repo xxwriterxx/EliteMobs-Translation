@@ -4,29 +4,29 @@ role: <Blacksmith>
 profession: TOOLSMITH
 location: EliteMobs_adventurers_guild,285.5,93,261.5,179,0
 greetings:
-- Welcome to our shop!
-- Sell your goods here!
-- Fresh goods, just for you!
-- Got something to sell?
-- Want to buy something good?
-- Fresh goods every time!
+- Benvenuto alla nostra bottega!
+- Vendi qui la tua roba!
+- Nuovi articoli, solo per te!
+- Hai qualcosa da vendere?
+- Vuoi comprare qualcosa?
+- Sempre e solo nuovi articoli!
 dialog:
-- Higher level mobs drop\nhigher value items!
-- Items with lots of \nenchantments are worth more!
-- Higher level mobs drop\nbetter items!
-- Higher level mobs have\na higher chance of dropping loot!
-- Elite mobs are attracted to\ngood armor, the better the\narmor the higher their
-  level!
-- Some items have special\npotion effects!
-- Some items have unique\neffects!
-- The hunter enchantment\nattracts elite mobs to your\nlocation!
-- Special weapons and armor\ndropped by elite mobs can\nbe sold here!
-- Higher guild ranks will\nincrease the quality of the\nloot from elite mobs!
+- I mobs di alto livello\nlasciano oggetti migliori!
+- Gli oggetti con molti\nincantamenti valgono di più!
+- I mobs di alto livello\nlasciano oggetti migliori!
+- I mobs di alto livello\nhanno più maggiori probabilità\n di lasciare oggetti !
+- Gli Elites sono attratti\nda una buona armatura, migliore\n l'armatura più alto il loro\n
+  livello!
+- Alcuni oggetti hanno\n effetti di pozioni speciali!
+- Alcuni oggetti hanno\n effetti unici!
+- L'incantamento Cacciatore\nattrae gli elites alla tua\nposizione!
+- Armi e armature speciali\nrilasciate dagli Elites\npossono essere vendute qui!
+- Livelli di gilda più alti\n incrementeranno la qualità\ndei boottoni rilasciati dagli Elites!
 farewell:
-- Thank you for your business!
-- Come back soon!
-- Come back any time!
-- Recommend this shop to your\nfriends!
+- Ti ringrazio per il tuo business!
+- Torna presto!
+- Ritorna quando vuoi!
+- Raccomando questa bottega \nai tuoi amici!!
 canMove: false
 canTalk: true
 activationRadius: 3.0

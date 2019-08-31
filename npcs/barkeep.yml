@@ -4,17 +4,17 @@ role: <Barkeep>
 profession: BUTCHER
 location: EliteMobs_adventurers_guild,285.5,91,209.5,0,0
 greetings:
-- Need a drink?
-- Want a drink
-- Thirsty?
-- Howdy, partner.
+- Hai bisogno di un drink?
+- Voglio un drink
+- Sete?
+- Salve, socio.
 dialog:
-- Have one of our house specialties.
-- Special drinks won't find them\nanywhere else.
-- One taste and will keep you\ncoming back from more.
+- Prova una delle nostre specialità.
+- Drink così speciali non li\ntroverai altrove.
+- Un sol boccone e ti assicuro\nche tornerai per averne ancora.
 farewell:
-- Come back anytime
-- Bottoms up!
+- Torna quando vuoi
+- Sottosopra!
 - Kampai!
 - Salut!
 - Brosd!
