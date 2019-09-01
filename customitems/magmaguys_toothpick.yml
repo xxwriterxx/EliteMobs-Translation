@@ -2,7 +2,7 @@ isEnabled: true
 material: WOODEN_SWORD
 name: '&4Lo Stuzzicadenti di&c &2MagmaGuy'
 lore:
-- '&aCome fosse nuove!'
+- '&aCome fosse nuovo!'
 enchantments:
 - VANISHING_CURSE,1
 dropWeight: dynamic
