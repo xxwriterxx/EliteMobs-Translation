@@ -2,9 +2,9 @@ isEnabled: true
 material: WOODEN_AXE
 name: '&2The Feller'
 lore:
-- '&aEven in your sleep,'
-- '&ayou can feel this axe''''s'
-- '&asaplust'
+- '&aAnche mentre dormi,'
+- '&apuoi sentire la sapidità'
+- '&adi quest''ascia'
 enchantments:
 - LOOT_BONUS_BLOCKS,4
 - SILK_TOUCH,1

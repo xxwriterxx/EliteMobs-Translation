@@ -1,9 +1,9 @@
 isEnabled: true
 material: COD
-name: '&bFishy Charm'
+name: '&bAspetto del Pesce'
 lore:
-- '&aThere''s just something not'
-- '&aquite right with this one...'
+- '&aC''è qualcosa che non mi'
+- '&aconvince molto con questo...'
 enchantments:
 - VANISHING_CURSE,1
 potionEffects:

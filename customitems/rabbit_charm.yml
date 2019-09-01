@@ -1,10 +1,10 @@
 isEnabled: true
 material: RABBIT_FOOT
-name: '&bRabbit Charm'
+name: '&bAspetto del Coniglio'
 lore:
-- '&aWith this charm, just about'
-- '&aany destination is only a hop,'
-- '&askip and a jump away!'
+- '&aCon questo aspetto, qualsiasi'
+- '&adestinazione è solo ad un salto'
+- '&adi distanza!'
 enchantments:
 - VANISHING_CURSE,1
 potionEffects:

@@ -1,10 +1,10 @@
 isEnabled: true
 material: COOKIE
-name: '&bLucky Charms'
+name: '&bPortafortuna'
 lore:
-- '&aPart of a complete breakfast!'
-- '&cNote: Absolutely not a part of'
-- '&ca complete breakfast.'
+- '&aParte di una colazione completa!'
+- '&cNota: Assolutamente non una parte'
+- '&cdi una colazione completa.'
 enchantments:
 - VANISHING_CURSE,1
 potionEffects:

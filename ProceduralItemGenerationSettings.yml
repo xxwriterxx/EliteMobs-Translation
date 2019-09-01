@@ -1349,17 +1349,17 @@ validMaterials:
   FISHING_ROD: true
   BOW: true
 materialNames:
-  swordName: Sword
-  bowName: Bow
-  pickaxe: Pickaxe
-  spade: Spade
-  hoe: Hoe
-  axe: Axe
-  helmet: Helmet
-  chestplate: Chestplate
-  leggings: Leggings
-  boots: Boots
-  shears: Shears
-  fishingRod: Fishing Rod
-  shield: Shield
-  trident: Trident
+  swordName: Spada
+  bowName: Arco
+  pickaxe: Piccone
+  spade: Pala
+  hoe: Zappa
+  axe: Ascia
+  helmet: Elmo
+  chestplate: Corazza
+  leggings: Gambali
+  boots: Stivali
+  shears: Cesoie
+  fishingRod: Canna da Pesca
+  shield: Scudo
+  trident: Tridente

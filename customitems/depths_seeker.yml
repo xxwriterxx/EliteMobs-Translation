@@ -1,11 +1,11 @@
 isEnabled: true
 material: FISHING_ROD
-name: '&2Depths seeker'
+name: '&2Esploratore di Profondità'
 lore:
-- '&9Come from depths immeasurable'
-- '&9and looted from monster most vile,'
-- '&9there is no telling what horrors'
-- '&9this fishing rod has seen.'
+- '&9Dalle profondità incommensurabili,'
+- '&9rubata dal mostro più vile,'
+- '&9non si può dire quali orrori'
+- '&9questa canna abbia visto.'
 enchantments:
 - LURE,3
 - LUCK,3

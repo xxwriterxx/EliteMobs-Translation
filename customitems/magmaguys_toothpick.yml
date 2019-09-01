@@ -1,8 +1,8 @@
 isEnabled: true
 material: WOODEN_SWORD
-name: '&4Magmaguy&c''s &2Toothpick'
+name: '&4Lo Stuzzicadenti di&c &2MagmaGuy'
 lore:
-- '&aIn nearly mint condition!'
+- '&aCome fosse nuove!'
 enchantments:
 - VANISHING_CURSE,1
 dropWeight: dynamic

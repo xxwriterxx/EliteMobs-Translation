@@ -1,11 +1,11 @@
 isEnabled: true
 material: WOODEN_PICKAXE
-name: '&4Dwarven Greed'
+name: '&4Avidità Nanica'
 lore:
-- '&cThose who delve too greedily'
-- '&cand too deep may wake ancient'
-- '&chorrors of shadow and flame'
-- '&cbest left undisturbed.'
+- '&cColoro che scavano troppo avidamente'
+- '&ce troppo profondamente potrebbero risvegliare'
+- '&cantichi brividi di ombre e fiamme'
+- '&cche forse è meglio lasciar sopite.'
 enchantments:
 - LOOT_BONUS_BLOCKS,4
 - DURABILITY,6

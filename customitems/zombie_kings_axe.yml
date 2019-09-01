@@ -1,10 +1,10 @@
 isEnabled: true
 material: GOLDEN_AXE
-name: '&4Zombie King''s Axe'
+name: '&4Ascia del Re Zombie'
 lore:
-- The axe of the one Zombies
-- call their king.
-- The bloodlust is palpable.
+- L'ascia di colui che gli zombie
+- chiamano loro Re.
+- La sete di sangue è palpabile.
 enchantments:
 - DAMAGE_ALL,10
 - DAMAGE_UNDEAD,5
