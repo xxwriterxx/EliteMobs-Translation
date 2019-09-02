@@ -1,6 +1,6 @@
 isEnabled: true
 entityType: ZOMBIE
-name: '&eTreasure Goblin'
+name: '&eGoblin del Tesoro'
 level: dynamic
 timeout: 30
 isPersistent: true
@@ -16,10 +16,10 @@ powers:
 - gold_shotgun.yml
 - hyper_loot.yml
 - spirit_walk.yml
-spawnMessage: '&cA Treasure Goblin has been sighted!'
-deathMessage: '&aA Treasure Goblin has been slain by $players!'
-escapeMessage: '&4A Treasure Goblin has escaped!'
-locationMessage: '&cTreasure Goblin: $location'
+spawnMessage: '&cUn Goblin del Tesoro è stato avvistato!'
+deathMessage: '&aUn Goblin del Tesoro è stato ucciso da $players!'
+escapeMessage: '&4Un Goblin del Tesoro è fuggito!'
+locationMessage: '&cGoblin del Tesoro : $location'
 uniqueLootList: []
 dropsEliteMobsLoot: true
 dropsVanillaLoot: true

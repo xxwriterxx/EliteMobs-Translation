@@ -46,7 +46,7 @@ Store item slots:
 - 51
 - 52
 - 53
-Full inventory message: '[EliteMobs] &4Il tuo inventario è pieno! Non puoi comprare oggetti
+Full inventory message: '&7[EliteMobs] &4Il tuo inventario è pieno! Non puoi comprare oggetti
   finchè non liberi un po'' di spazio.'
 Reroll button:
   material: PLAYER_HEAD

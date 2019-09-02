@@ -1,4 +1,4 @@
-shopName: '[EM] Sell Shop'
+shopName: '[EM] Negozio Vendita'
 infoButtonSlot: 4
 sellSlots:
 - 19
@@ -29,20 +29,20 @@ infoButton:
   name: '&4&lEliteMobs &r&cby &4&lMagmaGuy'
   lore:
   - '&8Supporta i plugin che ti piacciono!'
-  - '&4Warning!'
-  - '&cYou can only sell special'
-  - '&cElite Mobs drops in this'
-  - '&cshop! These should have'
-  - '&ca value on their lore.'
+  - '&4Attenzione!'
+  - '&cPuoi vendere soltanto il'
+  - '&cloot degli Elite Mobs qui!'
+  - '&cQuesto dovrebbero avere un'
+  - '&cvalore nella loro descrizione.'
   owner: magmaguy
 cancelButton:
   material: BARRIER
-  name: §4Cancel
+  name: §4Annulla
   lore:
-  - §cCancel purchase!
+  - §cAnnulla acquisto!
 confirmButton:
   material: EMERALD
-  name: §2Confirm Sale
+  name: §2Conferma vendita
   lore:
-  - §aSell item for
+  - §aVendi il tutto per
   - §a$currency_amount $currency_name

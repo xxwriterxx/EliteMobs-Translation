@@ -1,6 +1,6 @@
 isEnabled: true
 entityType: SKELETON
-name: '&7Summoned Skeleton'
+name: '&7Scheletro Evocato'
 level: dynamic
 timeout: 0
 isPersistent: false

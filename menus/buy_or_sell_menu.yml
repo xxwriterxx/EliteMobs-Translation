@@ -12,10 +12,10 @@ Information button:
   owner: magmaguy
 Buy procedurally generated items:
   material: EMERALD
-  name: Buy items
+  name: Compra oggetti
 Buy custom items:
   material: EMERALD
-  name: Buy custom items
+  name: Compra oggetti custom
 Sell items:
   material: REDSTONE
-  name: Sell items
+  name: Vendi oggetti
