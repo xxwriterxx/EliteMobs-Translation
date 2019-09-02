@@ -2,6 +2,6 @@ isEnabled: true
 entityType: PHANTOM
 name: '&fLvl &2$level &fElite &9Phantom'
 deathMessages:
-- $player just had a bad nightmare about $entity!
-- $player will be having nightmares about $entity!
-- $entity has taught $player the value of sleep!
+- $player ha appena avuto un incubo su $entity!
+- $player avrà incubi su $entity per un po'!
+- $entity ha insegnato a $player il valore di una dormita!
