@@ -1,6 +1,6 @@
 isEnabled: true
 entityType: ZOMBIE
-name: '&7Amico Zombie'
+name: '&7Amico Zombi'
 level: dynamic
 timeout: 0
 isPersistent: false

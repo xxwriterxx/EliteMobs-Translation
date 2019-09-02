@@ -1,6 +1,6 @@
 isEnabled: true
 entityType: ZOMBIE
-name: '&4Re Zombie'
+name: '&4Re Zombi'
 level: dynamic
 timeout: 30
 isPersistent: true
@@ -17,10 +17,10 @@ powers:
 - flamethrower.yml
 - summon_the_returned.yml
 - spirit_walk.yml
-spawnMessage: '&cIl Re Zombie è stato avvistato!'
-deathMessage: '&aIl Re Zombie è stato ucciso da $players!'
-escapeMessage: '&4Il Re Zombie è fuggito!'
-locationMessage: '&cRe Zombie: $location'
+spawnMessage: '&cIl Re Zombi è stato avvistato!'
+deathMessage: '&aIl Re Zombi è stato ucciso da $players!'
+escapeMessage: '&4Il Re Zombi è fuggito!'
+locationMessage: '&cRe Zombi: $location'
 uniqueLootList:
 - zombie_kings_axe.yml:1
 dropsEliteMobsLoot: true
