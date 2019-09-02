@@ -2,5 +2,5 @@ isEnabled: true
 entityType: WITHER_SKELETON
 name: '&fLvl &2$level &fElite &8Scheletro Wither'
 deathMessages:
-- Le frecce di $entity hanno sbiancato $player!
-- $entity ha sbiancato completamente $player!
+- Le frecce di $entity hanno avvizzito $player!
+- $entity ha avvizzito completamente $player!
