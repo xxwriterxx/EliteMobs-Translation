@@ -14,8 +14,8 @@ unlockedButton:
   name: $rankName
   lore:
   - §f§m-------------------------------
-  - §aThis rank is unlocked!
-  - §fYou can select it.
+  - §aQuesto rank è sbloccato!
+  - §fPuoi selezionarlo.
   - $tierWarning
   - §f§m-------------------------------
   - $lootBonus
@@ -26,8 +26,8 @@ lockedButton:
   name: $rankName
   lore:
   - §f§m-------------------------------
-  - §aThis rank is locked!
-  - §cYou need the $previousRank rank first!
+  - §aQuesto rank è bloccato!
+  - §cHai bisogno prima del rank $previousRank!
   - $tierWarning
   - §f§m-------------------------------
   - $lootBonus
@@ -38,7 +38,7 @@ currentButton:
   name: $rankName
   lore:
   - §f§m-------------------------------
-  - §aThis is your current rank!
+  - §aQuesto è il tuo rank attuale!
   - $tierWarning
   - §f§m-------------------------------
   - $lootBonus
@@ -49,10 +49,10 @@ nextButton:
   name: $rankName
   lore:
   - §f§m-------------------------------
-  - §6This is the next rank you can unlock
-  - §aSelect it when you're ready!
-  - §6Costs $price §6$currencyName
-  - §fYou have §a$currentCurrency $currencyName
+  - §6Questo è il prossimo rank che puoi sbloccare.
+  - §aSelezionalo quando sei pronto!
+  - §6Costo $price §6$currencyName
+  - §fPossiedi §a$currentCurrency $currencyName
   - $tierWarning
   - §f§m-------------------------------
   - $lootBonus

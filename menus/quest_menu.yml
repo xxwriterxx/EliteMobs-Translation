@@ -17,27 +17,27 @@ questStatusMessage: '&7[EM] &aHai ucciso &a$currentAmount &f/ &c$objectiveAmount
   &a$objectiveName'
 validTierButton:
   material: GREEN_STAINED_GLASS_PANE
-  name: §2Take on a $rank §2quest!
+  name: §2Intraprendi una §2missione $rank!
   lore:
-  - §aAccept a $rank §aquest and
-  - §aget special rewards!
+  - §aAccetta una §amissione $rank ed
+  - §aottieni ricompense speciali!
 inactiveTierButton:
   material: YELLOW_STAINED_GLASS_PANE
-  name: §6You can get a $rank §6quest!
+  name: §6Puoi prendere una §6missione $rank!
   lore:
-  - §eChange your active guild rank
-  - §eto $rank §eto accept there quests!
+  - §eImposta il tuo rank di gilda attivo
+  - §ea $rank §eper accettare queste missioni!
 invalidTierButton:
   material: RED_STAINED_GLASS_PANE
-  name: §4You can't get a $rank §4quest yet!
+  name: §4Non puoi ancora prendere una §4missione $rank!
   lore:
-  - '§cYou must first unlock the '
-  - $rank §cguild rank
-  - §cto accept these quests!
+  - '§cDevi prima sbloccare il'
+  - §crank di gilda $rank
+  - §cper accettare queste missioni!
 killObjectiveButton:
   material: YELLOW_STAINED_GLASS_PANE
-  name: §2Kill $objectiveAmount $objectiveName
+  name: §2Uccidi $objectiveAmount $objectiveName
   lore:
-  - §aKill $objectiveAmount $objectiveName §amobs.
-  - '§fProgress: §a$currentAmount §f/§c $objectiveAmount'
-  - '§aReward: §e $rewardAmount'
+  - §aUccidi $objectiveAmount $objectiveName §amobs.
+  - '§fProgresso: §a$currentAmount §f/§c $objectiveAmount'
+  - '§aRicompensa: §e $rewardAmount'

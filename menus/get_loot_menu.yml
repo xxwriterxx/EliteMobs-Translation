@@ -9,25 +9,25 @@ Info button:
   owner: magmaguy
 Left button:
   material: PLAYER_HEAD
-  name: Previous Item Ranks
+  name: Oggetti di Rank Precedente
   lore:
   - ''
   owner: MHF_ArrowLeft
 Right button:
   material: PLAYER_HEAD
-  name: Next Item Ranks
+  name: Oggetti di Rank Successivo
   lore:
   - ''
   owner: MHF_ArrowRight
 previousLoot:
   material: PLAYER_HEAD
-  name: Previous Loot Page
+  name: Pagina bottino precedente
   lore:
   - ''
   owner: MHF_ArrowLeft
 nextLoot:
   material: PLAYER_HEAD
-  name: Next Loot Page
+  name: Pagina bottino successiva
   lore:
   - ''
   owner: MHF_ArrowRight
