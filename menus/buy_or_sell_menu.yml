@@ -7,8 +7,8 @@ Information button:
   name: '&4&lEliteMobs &r&cby &4&lMagmaGuy'
   lore:
   - '&8Supporta i plugin che ti piacciono!'
-  - '&aClicka sullo smeraldo per acquistare oggetti!'
-  - '&cClicka sulla pietra rossa per vendere oggetti!'
+  - '&aClicka sullo smeraldo per acquistare!'
+  - '&cClicka sulla pietra rossa per vendere!'
   owner: magmaguy
 Buy procedurally generated items:
   material: EMERALD
