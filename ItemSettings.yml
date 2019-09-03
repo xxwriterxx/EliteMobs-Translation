@@ -8,9 +8,9 @@ itemLoreStructure:
 - $customLore
 - $itemSource
 - $loreResaleValue
-- Elite Mobs drop
+- Bottino mostro Elite
 - §m----------------------
-- 'Tier $tier '
+- 'Livello $tier '
 shopSourceItemLore: Acquistato da un negozio
 mobSourceItemLore: Ottenuto da $mob
 loreWorth: Valore $worth $currencyName
