@@ -2,39 +2,39 @@ isEnabled: true
 name: Friends
 effect: ZOMBIE_HEAD
 originalEntityDialog:
-- Let's play ZombieCraft later!
-- Feel the power of friendship!
+- Poi giochiamo a ZombieCraft!
+- Assaggia il potere dell'amicizia!
 - El pueblo, unido!
-- I called my friends over!
-- BFF power!
-- One for all!
-- Get him!
-- Screw you guys, I'm going home!
+- Ho invitato tutti i miei amici!
+- Potere dei migliori amiciii!
+- Uno per tutti!
+- Prendetelo!
+- Mi avete rotto, me ne torno a casa!
 friendDeathMessage:
 - Noooo!
 - Mediocre!
-- Zacharias!
-- He's deader than before!
-- Vengeance!
-- Revenge!
-- I can't believe you've done this.
+- Zaccaria!
+- E' morto più di prima!
+- Vendetta!
+- Rivincita!
+- Non riesco a credere che tu l'abbia fatto.
 reinforcementDialog:
-- Don't mess with our friends!
-- We got your back Zach!
-- Backup has arrived!
-- One for all, one for all!
-- This is going to be easy!
-- Give up we have the high ground!
-- You wanna go bruv?
+- Non prendertela con i nostri amici!
+- Ti copriamo noi, Zach!
+- I rinforzi sono qui!
+- Uno per tutti e tutti per uno!
+- Questo sarà facile!
+- Arrendetevi, siamo più in alto noi!
+- Vogliamo andare bruda??
 - Worldstaaaaaaaaar!
-- What are you doing to our friend
-- Feel the power of friendship!
-- Friendship power at 100%!
-- Zombies, assemble!
-- We got your back mate!
-- Together we are better!
-- The more the merrier!
-- I got you fam!
-- All for one!
-friend1Name: 'BFF #1'
-friend2Name: 'BFF #2'
+- Cosa stai facendo ai nostri amici?!
+- Assaggia il potere dell'amicizia!
+- Potere dell'amicizia al 100%!
+- Zombi, assemblamento!
+- Ti copriamo noi amico!
+- Insieme più forti!
+- Insieme più felici!
+- Ci penso io amico!
+- Tutti per uno!
+friend1Name: 'Miglior Amico #1'
+friend2Name: 'Miglior Amico #2'
