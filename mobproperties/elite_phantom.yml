@@ -1,6 +1,6 @@
 isEnabled: true
 entityType: PHANTOM
-name: '&fLvl &2$level &fElite &9Phantom'
+name: '&fLvl &2$level &9Phantom &fElite'
 deathMessages:
 - $player ha appena avuto un incubo su $entity!
 - $player avrà incubi su $entity per un po'!

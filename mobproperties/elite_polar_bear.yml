@@ -1,6 +1,6 @@
 isEnabled: true
 entityType: POLAR_BEAR
-name: '&fLvl &2$level &fElite &fOrso Polare'
+name: '&fLvl &2$level &fOrso Polare &fElite'
 deathMessages:
 - $player è stato dilaniato da $entity!
 - $player è stato amputato a morte da $entity!

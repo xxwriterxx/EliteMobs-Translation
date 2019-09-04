@@ -1,6 +1,6 @@
 isEnabled: true
 entityType: ENDERMAN
-name: '&fLvl &2$level &fElite &5Enderman'
+name: '&fLvl &2$level &5Enderman &fElite'
 deathMessages:
 - $entity ha spedito $player nel Vuoto!
 - $player ha guardato $entity in malo modo!

@@ -1,6 +1,6 @@
 isEnabled: true
 entityType: IRON_GOLEM
-name: '&fLvl &2$level &fElite &fGolem di Ferro'
+name: '&fLvl &2$level &fGolem di Ferro &fElite'
 deathMessages:
 - $player se l''è presa col $entity sbagliato!
 - $player ha appreso la via del pugno da $entity!

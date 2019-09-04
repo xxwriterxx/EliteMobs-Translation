@@ -1,6 +1,6 @@
 isEnabled: true
 entityType: PIG_ZOMBIE
-name: '&fLvl &2$level &fElite &6Zombi Suino'
+name: '&fLvl &2$level &6Zombi Suino &fElite'
 deathMessages:
 - $player è stato assalito a morte da $entity!
 - $entity ha ottenuto la pancetta di $player!

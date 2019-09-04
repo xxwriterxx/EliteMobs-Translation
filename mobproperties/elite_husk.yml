@@ -1,5 +1,5 @@
 isEnabled: true
 entityType: HUSK
-name: '&fLvl &2$level &fElite &7Zombi Secco'
+name: '&fLvl &2$level &7Zombi Secco &fElite'
 deathMessages:
 - $player ha prosciugato $entity!

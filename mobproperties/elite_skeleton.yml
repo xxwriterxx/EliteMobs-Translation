@@ -1,5 +1,5 @@
 isEnabled: true
 entityType: SKELETON
-name: '&fLvl &2$level &fElite &fScheletro'
+name: '&fLvl &2$level &fScheletro &fElite'
 deathMessages:
 - $player è diventato il puntaspilli di $entity!

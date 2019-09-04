@@ -1,5 +1,5 @@
 isEnabled: true
 entityType: VINDICATOR
-name: '&fLvl &2$level &fElite &7Difensore'
+name: '&fLvl &2$level &7Difensore &fElite'
 deathMessages:
 - $entity ha rivendicato le sue abilità di combattimento da $player!

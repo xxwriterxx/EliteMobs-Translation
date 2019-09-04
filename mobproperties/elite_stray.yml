@@ -1,5 +1,5 @@
 isEnabled: true
 entityType: STRAY
-name: '&fLvl &2$level &fElite &bScheletro con occhi bianchi'
+name: '&fLvl &2$level &bScheletro con occhi bianchi &fElite'
 deathMessages:
 - $player è stato condotto fuori strada da $entity!

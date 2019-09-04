@@ -1,6 +1,6 @@
 isEnabled: true
 entityType: SPIDER
-name: '&fLvl &2$level &fElite &7Ragno'
+name: '&fLvl &2$level &7Ragno &fElite'
 deathMessages:
 - $player è stato intrappolato dalla ragnatela di $entity!
 - $entity ha divorato $player!
