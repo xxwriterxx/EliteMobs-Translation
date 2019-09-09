@@ -1,43 +1,43 @@
-questTierSelectorMenuTitle: '[EM] Quest Tier Selection'
-questSelectorMenuTitle: '[EM] Quest Selection'
-cancelQuestMessage1: '&c&l&m&o---------------------------------------------&cYou can
-  only have one quest at a time! Cancelling your ongoing quest will reset quest progress!'
-cancelQuestMessage2: '&2[Click here to cancel current quest!]'
-cancelQuestMessage3: '&7You can see your quest status with the command &a/em quest
+questTierSelectorMenuTitle: '[EM] Seleziona Grado Missioni'
+questSelectorMenuTitle: '[EM] Missioni'
+cancelQuestMessage1: '&c&l&m&o---------------------------------------------&cPuoi
+  soltanto avere una missione alla volta! Cancellare la tua attuale missione ne resetterà il progresso!'
+cancelQuestMessage2: '&2[Clicka qui per annullare la missione corrente!]'
+cancelQuestMessage3: '&7Puoi controllare lo stato della missione con il commando &a/em quest
   status&c&l&m&o---------------------------------------------'
-questCancelMessage: '&7[EliteMobs] &cYour ongoing quest has been cancelled!'
-questStartTitle: You have accepted a quest!
-questStartSubtitle: Slay $objectiveAmount $objectiveName
-questCompleteTitle: Quest complete!
-questCompleteSubtitle: You have slain $objectiveAmount $objectiveName
-bossBarObjective: Slay $objectiveAmount $objectiveName
-questRewardMessage: '&7[EM] &aQuest completed! &6Your reward is &2$reward $currencyName'
-questCompleteBroadcastMessage: '&7[EM] $player &2has completed a $rank &2quest!'
-questStatusMessage: '&7[EM] &aYou''ve slain &a$currentAmount &f/ &c$objectiveAmount
+questCancelMessage: '&7[EliteMobs] &cLa tua attuale missione è stata annullata!'
+questStartTitle: Hai accettato la missione!
+questStartSubtitle: Uccidi $objectiveAmount $objectiveName
+questCompleteTitle: Missione completata!
+questCompleteSubtitle: Hai ucciso $objectiveAmount $objectiveName
+bossBarObjective: Uccidi $objectiveAmount $objectiveName
+questRewardMessage: '&7[EM] &aMissione completata! &6La tua ricompensa è &2$reward $currencyName'
+questCompleteBroadcastMessage: '&7[EM] $player &2ha completato una &2missione $rank !'
+questStatusMessage: '&7[EM] &aHai ucciso &a$currentAmount &f/ &c$objectiveAmount
   &a$objectiveName'
 validTierButton:
   material: GREEN_STAINED_GLASS_PANE
-  name: §2Take on a $rank §2quest!
+  name: §2Intraprendi una §2missione $rank!
   lore:
-  - §aAccept a $rank §aquest and
-  - §aget special rewards!
+  - §aAccetta una §amissione $rank ed
+  - §aottieni ricompense speciali!
 inactiveTierButton:
   material: YELLOW_STAINED_GLASS_PANE
-  name: §6You can get a $rank §6quest!
+  name: §6Puoi prendere una §6missione $rank!
   lore:
-  - §eChange your active guild rank
-  - §eto $rank §eto accept there quests!
+  - §eImposta il tuo rank di gilda attivo
+  - §ea $rank §eper accettare queste missioni!
 invalidTierButton:
   material: RED_STAINED_GLASS_PANE
-  name: §4You can't get a $rank §4quest yet!
+  name: §4Non puoi ancora prendere una §4missione $rank!
   lore:
-  - '§cYou must first unlock the '
-  - $rank §cguild rank
-  - §cto accept these quests!
+  - '§cDevi prima sbloccare il'
+  - §crank di gilda $rank
+  - §cper accettare queste missioni!
 killObjectiveButton:
   material: YELLOW_STAINED_GLASS_PANE
-  name: §2Kill $objectiveAmount $objectiveName
+  name: §2Uccidi $objectiveAmount $objectiveName
   lore:
-  - §aKill $objectiveAmount $objectiveName §amobs.
-  - '§fProgress: §a$currentAmount §f/§c $objectiveAmount'
-  - '§aReward: §e $rewardAmount'
+  - §aUccidi $objectiveAmount $objectiveName §amobs.
+  - '§fProgresso: §a$currentAmount §f/§c $objectiveAmount'
+  - '§aRicompensa: §e $rewardAmount'

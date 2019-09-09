@@ -1,10 +1,10 @@
 isEnabled: true
 material: POISONOUS_POTATO
-name: '&bScorpion Charm'
+name: '&bAspetto dello Scorpione'
 lore:
-- '&aFloat like a butterfly,'
-- '&asting like a bee,'
-- '&apoison like a potato!'
+- '&aGalleggia come una farfalla,'
+- '&apunge come un''ape,'
+- '&avelenoso come una patata!'
 enchantments:
 - VANISHING_CURSE,1
 potionEffects:

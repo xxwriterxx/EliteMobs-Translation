@@ -1,6 +1,6 @@
 isEnabled: true
 entityType: WITCH
-name: '&fLvl &2$level &fElite &5Witch'
+name: '&fLvl &2$level &5Strega &fElite'
 deathMessages:
-- $player became $entity's test subject!
-- $player has been bewitched by $entity!
+- $player è diventato il soggetto degli esperimenti di $entity!
+- $player è rimasto stregato da $entity!

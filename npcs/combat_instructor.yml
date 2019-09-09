@@ -1,51 +1,49 @@
 isEnabled: true
 name: Charles
-role: <Combat Instructor>
+role: <Istruttore di Combattimento>
 profession: NITWIT
 location: EliteMobs_adventurers_guild,277.41,90.0,286.23,-214.85,-1.95
 greetings:
-- Want to learn about combat?
-- Need a combat lesson?
-- Want to know more about combat?
-- Ready to fight Elite Mobs?
+- Vuoi imparare qualcosa sul\ncombattimento?
+- Bisogna di una lezione?
+- Vuoi saperne di più sul\ncombattimento?
+- Pronto ad affrontare gli Elites?
 dialog:
-- The items around Elite Mobs\nshow what powers they have.
-- The higher the level of\nthe Elite Mob, the\nmore powers they can have
-- The higher the level of\nthe Elite Mob, the\nbetter the loot they can drop
-- Higher level Elite Mobs\nhave higher chances\nof dropping special items
-- Elite Mobs with floating\narrows fire arrows at\nnearby players
-- Elite Mobs with floating\nender eyes blind you\nwhen they hit you
-- Elite Mobs with floating\nspell particles confuse you\nwhen they hit you
-- Elite Mobs with floating\nlava buckets set you on fire\nwhen they hit you
-- |-
-  Elite Mobs with floating\nfireballs fire fireballs
-  at nearby players
-- Elite Mobs with floating\npacked ice freeze you\nwhen they hit you
-- Elite Mobs with floating\nelytras make you float\nwhen they hit you
-- Elite Mobs with floating\nemeralds poison you\nwhen they hit you
-- Elite Mobs with floating\npistons push you\nwhen they hit you
-- Elite Mobs with floating\ntotems weaken you\nwhen they hit you
-- Elite Mobs with floating\nwebs web you\nwhen they hit you
-- Elite Mobs with floating\nskulls wither you\nwhen they hit you
-- Elite Mobs with floating\nchests drop bonus loot\nwhen you kill them
-- Elite Mobs with floating\ngold boots are faster
-- Elite Mobs with floating\njukeboxes taunt you\nduring combat
-- Elite Mobs with floating\nglass panes are invisible
-- Elite Mobs with floating\nspectral arrows are immune\nto arrows
-- Elite Mobs with floating\nfeathers are immune\nto fall damage
-- Elite Mobs with floating\nflames are immune\nto fire
-- Elite Mobs with floating\nanvils are heavier\nthan usual
-- Elite Mobs with floating\nbone blocks leave their\ncorpses behind when killed
-- Elite Mobs with floating\nslime blocks jump higher\nthan usual
-- Elite Mobs with floating\nslime balls create a vaccum\nupon death
-- Elite Mobs with floating\nleads pull you\nwhen they hit you
-- Elite Mobs with floating\nbones create bone pillars\nduring combat
-- Elite Mobs with floating\ntipped arrows fire tracking\narrows during combat
-- Elite Mobs with floating\nmushrooms bloat up to become giants\nwhen hit
-- Elite Mobs with floating\nskulls summon reinforcements\nwhen hit
-- Elite Mobs with floating\nbooks summon reinforcements\nuntil you kill the summoner
-- Elite Mobs with floating\neggs summon reinforcements\nwhen hit
-- Elite Mobs with floating\nfireworks summon Team Rocket\nwhen hit
+- Gli oggetti intorno agli\nElitemostrano quali\npoteri hanno
+- Più il livello dell''Elite\n è alto, più poteri\navrà
+- Più il livello dell''Elite\n è alto, migliore sarà\nil loro bottino
+- Gli Elite di livello più\nalto hanno maggiori possibilità\ndi lasciare bottini speciali
+- Gli Elite con frecce \nfluttuanti sparano frecce\nai giocatori vicini
+- Gli Elite con occhi di\nender fluttuanti ti accecano\nquando ti colpiscono
+- Gli Elite con particelle\ndi magia fluttuanti ti\nconfondono quando ti colpiscono
+- Gli Elite con secchi\ndi lava fluttuanti ti bruciano\nquando ti colpiscono
+- Gli Elite con palle di\nfuoco fluttuanti lanciano\npalle di fuoco ai giocatori vicini
+- Gli Elite con ghiacci\ncompatti fluttuanti congelano\nquando ti colpiscono
+- Gli Elite con elytra\nfluttuanti ti faranno lievitare\nquando ti colpiscono
+- Gli Elite con smeraldi\nfluttuanti avvelenano quando\nti colpiscono
+- Gli Elite con pistoni\nfluttuanti respingono quando\nti colpiscono
+- Gli Elite con totem\nfluttuanti indeboliscono quando\nti colpiscono
+- Gli Elite con ragnatele\nfluttuanti intrappolano quando\nti colpiscono
+- Gli Elite con teschi\nwhiter fluttuanti avvizziscono\nquando ti colpiscono
+- Gli Elite con bauli\nfluttuanti lasciano bottino\nbonus quando uccisi
+- Gli Elite con stivali\ndorati fluttuanti sono più\nveloci
+- Gli Elite con jukeboxe\nfluttuanti ti provocano durante\nil combattimento
+- Gli Elite con pannelli\ndi vetro fluttuanti sono\ninvisibili
+- Gli Elite con frecce\nspeciali fluttuanti sono\nimmuni alle frecce
+- Gli Elite con piume\nfluttuanti sono immuni\nai danni da caduta
+- Gli Elite con fiamme\nfluttuanti sono immuni\nai danni da fuoco
+- Gli Elite con incudini\nfluttuanti sono più\npesanti del normale
+- Gli Elite con blocchi\nd''ossa fluttuanti lasciano\nun cadavere quando uccisi
+- Gli Elite con blocchi\ndi slime fluttuanti saltano\npiù in alto del normale
+- Gli Elite con palle\ndi slime fluttuanti creano\nun vuoto quando uccisi
+- Gli Elite con guinzagli\nfluttuanti attirano a sè\nquando ti colpiscono
+- Gli Elite con ossa\nfluttuanti creano colonne di\nossa durante il combattimento
+- Gli Elite con frecce\nspeciali fluttuanti sparano\nfrecce infuocate tracciate durante\nil combattimento
+- Gli Elite con funghi\nfluttuanti si gonfiano fino a\ndiventare giganti quando colpiti
+- Gli Elite con teschi\nfluttuanti evocano rinforzi\nquando colpiti
+- Gli Elite con libri\nfluttuanti evocano rinforzi\nfin quando non uccidi l''evocatore
+- Gli Elite con uova\nfluttuanti evocano rinforzi\nquando colpiti
+- Gli Elite con razzi\npirotecnici fluttuanti evocano\nil Team Rocket quando colpinti
 canMove: false
 canTalk: true
 activationRadius: 3.0

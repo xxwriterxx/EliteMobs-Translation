@@ -1,5 +1,5 @@
 isEnabled: true
 entityType: ENDERMITE
-name: '&fLvl &2$level &fElite &7Endermite'
+name: '&fLvl &2$level &7Endermite &fElite'
 deathMessages:
-- $entity is to $player what David is to Goliath!
+- $entity sta a $player come Davide sta a Golia!

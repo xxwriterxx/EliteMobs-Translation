@@ -1,9 +1,9 @@
 isEnabled: true
 material: ELYTRA
-name: '&bOwl Charm'
+name: '&bAspetto del Gufo'
 lore:
-- '&aBecome the ultimate nocturnal'
-- '&apredator!'
+- '&aDiventa il predatore notturno'
+- '&adefinitivo!'
 enchantments:
 - VANISHING_CURSE,1
 potionEffects:

@@ -1,6 +1,6 @@
 isEnabled: true
-name: Soulbind
+name: Vincolo dell'anima
 maxLevel: 1
 value: 10.0
-loreString: '&6Soulbound to &f$player'
+loreString: '&6Vincolato a &f$player'
 hologramString: $player&f's

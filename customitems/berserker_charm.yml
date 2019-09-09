@@ -1,10 +1,10 @@
 isEnabled: true
 material: TOTEM_OF_UNDYING
-name: '&bBerserker Charm'
+name: '&bAspetto del Berserker'
 lore:
-- '&aLose yourself in the face of'
-- '&aoverwhelming adversity in more'
-- '&aways than one...'
+- '&aPerditi di fronte'
+- '&alle avversità schiaccianti'
+- '&in più di un modo...'
 enchantments:
 - VANISHING_CURSE,1
 potionEffects:

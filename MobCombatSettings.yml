@@ -22,4 +22,4 @@ hideEliteMobPowersUntilAggro: true
 damageToEliteMobMultiplier: 1.0
 damageToPlayerMultiplier: 1.0
 showCustomBossLocation: true
-bossLocationMessage: '&7[EM] &2[Click to track!]'
+bossLocationMessage: '&7[EM] &2[Clicka per tracciare!]'

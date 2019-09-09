@@ -1,26 +1,26 @@
 isEnabled: true
 name: Grog
-role: <Special Blacksmith>
+role: <Fabbro Speciale>
 profession: WEAPONSMITH
 location: EliteMobs_adventurers_guild,282.5,93,258.5,-90,0
 greetings:
-- Need something?
-- Got anything good?
-- We have nothing but the best
-- Got anything worth selling?
-- We only buy elite mob gear.
+- Hai bisogno di qualcosa?
+- Hai qualcosa di buono?
+- Non abbiamo nulla se non il meglio
+- Hai qualcosa degna di essere venduta?
+- Compriamo solamente equipaggiamento elite.
 dialog:
-- We buy low and sell high.
-- No refunds.
-- Absolutely no refunds.
-- There are no refunds.
-- No taksies backsies.
-- Shop purchases are final.
+- Compriamo a poco e rivendiamo a tanto.
+- Niente rimborsi!
+- Assolutamente nessun rimborso.
+- Non ci sono rimborsi.
+- Niente ripensamenti.
+- Gli acquisti in bottega sono definitivi.
 farewell:
-- Come back when you have\nmore to spend
-- Don't get yourself killed,\nwe want you to bring us\nmore gear.
-- Next time buy something \mmore expensive.
-- Don't forget, no refunds.
+- Ritorna quando avrai altro\nda spendere.
+- Non farti ammazzare,\nci devi portare ancora\naltro equipaggiamento.
+- La prossima volta compra\nqualcosa di più costoso.
+- Non dimenticare, niente rimborsi.
 canMove: false
 canTalk: true
 activationRadius: 3.0

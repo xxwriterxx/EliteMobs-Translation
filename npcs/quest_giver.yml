@@ -1,26 +1,26 @@
 isEnabled: true
 name: Qel'Thuzad
-role: <Quest Giver>
+role: <Gestore Missioni>
 profession: FLETCHER
 location: EliteMobs_adventurers_guild,278.5,91,215.5,0,0
 greetings:
-- Greetings, adventurer!\nFancy a quest?
-- You! I've got a quest!
-- Feeling... adventurous?
+- Saluti, avventuriero! \nHai voglia di una missione?
+- Tu! Ho una missione!
+- Ti senti...avventuroso?
 dialog:
-- Complete guild quests\nfor cool rewards!
-- Higher tier quests have\nbetter rewards!
-- Higher tier quests make\nyou hunt higher level mobs!
-- Want a harder challenge?\nIncrease your guild rank!
-- Make sure you're well equipped\nfor these quests!
+- Completa le missioni di gilda\nper fantastiche ricompense!
+- Più alti i gradi delle missioni,\n migliori le ricompense!
+- Le missioni di livello più alto\nti faranno incontrare mobs più potenti!
+- Vuoi una vera sfida?\nIncrementa il tuo grado di gilda!
+- Assicurati di essere ben\n equipaggiato per queste missioni!
 farewell:
-- Safe travels, friend.
-- Happy hunting!
-- Live long and prosper!
-- Come back with your shield,\n or on it.
-- Life before death!
-- Strength before weakness!
-- Journey before destination!
+- Sii prudente, amico.
+- Felice caccia!
+- Vivi a lungo ed in prosperitò!
+- Ritorna col tuo scudo,\n o sopra di esso.
+- La vita prima della morte!
+- Forza prima della debolezza!
+- Viaggio prima della destinazione!
 canMove: false
 canTalk: true
 activationRadius: 3.0

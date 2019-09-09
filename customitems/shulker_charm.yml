@@ -1,10 +1,10 @@
 isEnabled: true
 material: FEATHER
-name: '&bShulker Charm'
+name: '&bAspetto dello Shulker'
 lore:
 - '&aI believe I can fly'
 - '&aI believe I can touch the sky'
-- '&aAnd you''re coming with me!'
+- '&aE tu verrai con me!'
 enchantments:
 - VANISHING_CURSE,1
 potionEffects:

@@ -2,44 +2,44 @@ isEnabled: true
 name: Parents
 effect: SKELETON_SKULL
 deathMessage:
-- You monster!
-- My baby!
-- What have you done!?
-- Revenge!
+- Mostro!
+- Il mio bambino!
+- Cosa hai fatto!?
+- Vendetta!
 - Nooooo!
-- You will pay for that!
-- Eh, he was adopted
-- He's dead! Again!
-- He's deader than before!
-- You broke him!
+- Pagherai per tutto!
+- Eh, è stato adottato
+- E' morto! Ancora!
+- E' più morto che mai!
+- L'hai rotto!
 bossEntityDialog:
-- You're embarrassing me!
-- He's bullying me!
-- He's the one picking on me!
-- I can deal with this alone!
-- Leave me alone, I got this!
-- Stop following me around!
-- God this is so embarrassing!
-- He took my lunch money!
-- He's bullying me!
+- Mi state imbarazzando!
+- Mi sta bullizzando!
+- E lui che se la prende sempre con me!
+- Ce la faccio anche da solo!
+- Lasciatemi, ce la faccio!
+- Smettetela di seguirmi!
+- Questo è imbarazzante!
+- Mi ha rubato i soldi del pranzo!
+- Mi sta bullizzando!
 zombieDad:
-- Get away from my son!
-- Stand up for yourself son!
-- I'll deal with him!
-- Stop picking on my son!
-- Why are you doing this?
-- I'll talk to your parents!
-- You go kiddo!
-- Show him who's boss kiddo!
-- Nice punch kiddo!
+- Stai lontano da mio figlio!
+- Fatti valere figlio mio!
+- Ci pensa papà ora!
+- Basta prendertela con mio figlio!
+- Perchè lo fai?
+- Parlerò con i tuoi genitori!
+- Vai ragazzone!
+- Mostragli chi è il figlio del capo!
+- Bel pugno ragazzino!
 zombieMom:
-- Hands off my child!
-- Are you hurt sweetie?
-- Did he hurt you sweetie?
-- Let me see that booboo sweetie
-- I'll talk to his parents!
-- You forgot your jacket sweetie!
-- Posture, sweetheart
-- Break it up!
-- Stop this!
-- Did you take out the garbage?
+- Giù dal mio bambino!
+- Ti sei fatto mate zuccherino?
+- Ti ha fatto male zuccherino?
+- Fammi vedere dove ti ha fatto bua bua
+- Parlerò con i suoi genitori!
+- Ti sei dimenticato il giacchetto zuccherino!
+- Postura, dolcezza
+- Rompilo!
+- Fermi tutti!
+- Hai buttato la spazzatura?

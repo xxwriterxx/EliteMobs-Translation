@@ -1,5 +1,5 @@
 isEnabled: true
 entityType: CAVE_SPIDER
-name: '&fLvl &2$level &fElite &3Cave Spider'
+name: '&fLvl &2$level &3Ragno delle Caverne &fElite'
 deathMessages:
-- $player became entangled in $entity's web!
+- $player è rimasto intrappolato nella ragnatela di $entity!
