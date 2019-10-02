@@ -1,6 +1,6 @@
 isEnabled: true
 entityType: SKELETON
-name: '&7Summoned Skeleton'
+name: '&7Squelette du necromancien'
 level: dynamic
 timeout: 0
 isPersistent: false
@@ -9,3 +9,4 @@ damageMultiplier: 0.1
 isBaby: false
 dropsEliteMobsLoot: false
 dropsVanillaLoot: false
+spawnChance: 0.0

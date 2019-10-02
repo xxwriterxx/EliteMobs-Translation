@@ -1,9 +1,8 @@
-questTierSelectorMenuTitle: '[EM] Quest Tier Selection'
-questSelectorMenuTitle: '[EM] Quest Selection'
-cancelQuestMessage1: '&c&l&m&o---------------------------------------------&cYou can
-  only have one quest at a time! Cancelling your ongoing quest will reset quest progress!'
-cancelQuestMessage2: '&2[Click here to cancel current quest!]'
-cancelQuestMessage3: '&7You can see your quest status with the command &a/em quest
+﻿questTierSelectorMenuTitle: '[EM] Selection du tier de niveau'
+questSelectorMenuTitle: '[EM] Selection de quete'
+cancelQuestMessage1: '&c&l&m&o---------------------------------------------&cTu ne peux avoir qu une seule quete a la fois! Choisir une nouvelle quete detruit la progression de l ancienne!
+cancelQuestMessage2: '&2[Cliquez pour annulez la quete!]'
+cancelQuestMessage3: '&7Tu peux voir le statut de ta quete avec &a/em quest
   status&c&l&m&o---------------------------------------------'
 questCancelMessage: '&7[EliteMobs] &cYour ongoing quest has been cancelled!'
 questStartTitle: You have accepted a quest!
@@ -13,14 +12,14 @@ questCompleteSubtitle: You have slain $objectiveAmount $objectiveName
 bossBarObjective: Slay $objectiveAmount $objectiveName
 questRewardMessage: '&7[EM] &aQuest completed! &6Your reward is &2$reward $currencyName'
 questCompleteBroadcastMessage: '&7[EM] $player &2has completed a $rank &2quest!'
-questStatusMessage: '&7[EM] &aYou''ve slain &a$currentAmount &f/ &c$objectiveAmount
+questStatusMessage: '&7[EM] &aVous avez tué &a$currentAmount &f/ &c$objectiveAmount
   &a$objectiveName'
 validTierButton:
   material: GREEN_STAINED_GLASS_PANE
-  name: §2Take on a $rank §2quest!
+  name: §2Allez faire une $rank §2quête!
   lore:
-  - §aAccept a $rank §aquest and
-  - §aget special rewards!
+  - §aAcceptez une $rank §aquest et
+  - §arecevez de beaux prix!
 inactiveTierButton:
   material: YELLOW_STAINED_GLASS_PANE
   name: §6You can get a $rank §6quest!

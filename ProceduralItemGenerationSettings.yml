@@ -1,5 +1,5 @@
 dropProcedurallyGeneratedItems: true
-customEnchantmentChance: 0.1
+customEnchantmentsChance: 0.5
 nameFormats:
 - $verb $itemType of the $adjective $noun
 - $itemType of the $adjective $noun

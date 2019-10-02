@@ -1,6 +1,6 @@
 isEnabled: true
 entityType: SKELETON
-name: '&7Zombie Mom'
+name: '&7Mere zombie'
 level: dynamic
 timeout: 0
 isPersistent: false
@@ -9,3 +9,4 @@ damageMultiplier: 0.5
 isBaby: false
 dropsEliteMobsLoot: false
 dropsVanillaLoot: false
+spawnChance: 0.0

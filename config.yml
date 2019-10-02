@@ -5,3 +5,4 @@ useTitlesForMissingPermissionMessages: true
 hideEnchantmentAttributes: false
 preventEliteMobConversionOfNamedMobs: true
 enableHighCompatibilityMode: false
+nightmareWorldSpawnBonus: 0.5

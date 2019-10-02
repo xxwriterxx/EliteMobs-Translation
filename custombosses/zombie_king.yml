@@ -1,6 +1,6 @@
 isEnabled: true
 entityType: ZOMBIE
-name: '&4Zombie King'
+name: '&4Roi zombie'
 level: dynamic
 timeout: 30
 isPersistent: true
@@ -17,13 +17,14 @@ powers:
 - flamethrower.yml
 - summon_the_returned.yml
 - spirit_walk.yml
-spawnMessage: '&cThe Zombie King has been sighted!'
-deathMessage: '&aThe Zombie King has been slain by $players!'
-escapeMessage: '&4The Zombie King has escaped!'
-locationMessage: '&cZombie King: $location'
+spawnMessage: '&cLe roi zombie est apparu dans le monde des humains!'
+deathMessage: '&aLe roi zombie a ete assassine par $players!'
+escapeMessage: '&4Le roi zombie a reussi a se refugier!'
+locationMessage: '&cPosition du roi zombie: $location'
 uniqueLootList:
 - zombie_kings_axe.yml:1
 dropsEliteMobsLoot: true
 dropsVanillaLoot: true
 trails:
 - FLAME
+spawnChance: 0.0

@@ -1,16 +1,16 @@
 isEnabled: true
-entityType: VEX
-name: '&eFee des eclairs'
+entityType: BLAZE
+name: '&cEmber'
 level: dynamic
 timeout: 0
 isPersistent: false
 healthMultiplier: 0.3
 damageMultiplier: 0.3
 isBaby: false
-powers:
-- attack_lightning.yml
-dropsEliteMobsLoot: true
+powers: []
+uniqueLootList: []
+dropsEliteMobsLoot: false
 dropsVanillaLoot: true
 trails:
-- SPELL
+- SPELL_WITCH
 spawnChance: 0.0

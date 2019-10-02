@@ -1,14 +1,16 @@
-questTierSelectorMenuTitle: '[EM] Guild Rank Selection'
-lowTierWarning: '&cElites can''t drop better loot!'
-normalTierWarning: '&aElite can drop better loot!'
-notEnoughCurrencyMessage: '&7[EliteMobs] &4You don''t have enough Elite Coins ($neededAmount
-  $currencyName)! Sell some Elite Mob loot to [/em shop]! You have $currentAmount
-  $currencyName.'
-unlockMessage: "&7[EliteMobs] &aYou have unlocked the $rankName &arank for $price\
-  \ $currencyName. \n&6Happy hunting!"
-questCompleteBroadcastMessage: '&7[EliteMobs] &a$player &ahas reached the $rankName
+questTierSelectorMenuTitle: '[EM] Selection de rang de guilde'
+lowTierWarning: '&cLes elites ne peuvent pas drop de meilleurs butins!'
+normalTierWarning: '&aLes elites peuvent drop de meilleurs butins'
+notEnoughCurrencyMessage: '&7[EliteMobs] &4Tu as pas assez d elites coins!($neededAmount / $currencyName)! Vendez un peu dans le [/em shop]! Tu as actuellement $currentAmount
+  $currencyName.
+unlockMessage: "&7[EliteMobs] &aTu as debloque le $rankName &arank pour $price\
+  \ $currencyName. \n&6Bonne chasse!"
+questCompleteBroadcastMessage: '&7[EliteMobs] &a$player &aa atteint le $rankName
   &aguild rank!'
 failedMessage: '&7[EliteMobs] &cYou need to unlock other ranks first!'
+spawnRateModifierMessage: '&fElite Mob spawn rate modifier: &c$modifier%'
+lootModifierMessage: '&fElite Mob loot modifier: &a$modifier%'
+difficultyModifierMessage: '&fElite Mob difficulty modifier: &c$modifier%'
 unlockedButton:
   material: GRAY_STAINED_GLASS_PANE
   name: $rankName
