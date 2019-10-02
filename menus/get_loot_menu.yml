@@ -1,33 +1,33 @@
-Shop name: '[EM] Procedural Item Shop'
+Shop name: '[EM] Magasin proceduriale'
 tierTranslation: Tier
 itemFilterTranslation: Filter by items of this rank.
 Info button:
   material: PLAYER_HEAD
-  name: '&4&lEliteMobs &r&cby &4&lMagmaGuy'
+  name: '&4&lEliteMobs &r&cpar &4&lMagmaGuy'
   lore:
-  - '&8Support the plugins you enjoy!'
+  - '&8Supportez les plugins que vous aimez!'
   owner: magmaguy
 Left button:
   material: PLAYER_HEAD
-  name: Previous Item Ranks
+  name: Anciens items de rang
   lore:
   - ''
   owner: MHF_ArrowLeft
 Right button:
   material: PLAYER_HEAD
-  name: Next Item Ranks
+  name: Items de rang suivant
   lore:
   - ''
   owner: MHF_ArrowRight
 previousLoot:
   material: PLAYER_HEAD
-  name: Previous Loot Page
+  name: Items de rang precedent
   lore:
   - ''
   owner: MHF_ArrowLeft
 nextLoot:
   material: PLAYER_HEAD
-  name: Next Loot Page
+  name: Page de butin suivant
   lore:
   - ''
   owner: MHF_ArrowRight

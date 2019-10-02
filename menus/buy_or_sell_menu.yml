@@ -1,21 +1,21 @@
-Shop name: '[EM] Custom Item Shop'
+Shop name: '[EM] Marche des items customs'
 Information button slot: 4
 Buy slot: 11
 Sell slot: 15
 Information button:
   material: PLAYER_HEAD
-  name: '&4&lEliteMobs &r&cby &4&lMagmaGuy'
+  name: '&4&lEliteMobs &r&cconçue par &4&lMagmaGuy'
   lore:
-  - '&8Support the plugins you enjoy!'
-  - '&aClick on the emerald to buy items!'
-  - '&cClick on the redstone to sell items!'
+  - '&8Supportez les plugins que vous aimez!'
+  - '&aCliquez sur l emeraude pour acheter!'
+  - '&cClique sur la redstone pour vendre!'
   owner: magmaguy
 Buy procedurally generated items:
   material: EMERALD
-  name: Buy items
+  name: Achetez des objets
 Buy custom items:
   material: EMERALD
-  name: Buy custom items
+  name: Achetez des objets customs
 Sell items:
   material: REDSTONE
-  name: Sell items
+  name: Vendre des objets
