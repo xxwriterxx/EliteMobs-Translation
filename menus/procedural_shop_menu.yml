@@ -48,11 +48,11 @@ Store item slots:
 - 53
 Minimum store item tier: 0
 Maximum store item tier: 5
-Full inventory message: '&7[EliteMobs] &4Your inventory is full! You can''t buy items
-  until you get some free space.'
+Full inventory message: '&7[EliteMobs] &4Dein Inventar ist voll! Du kannst keine Ausrüstung
+  kaufen, bis du etwas Platz gemacht hast.'
 Reroll button:
   material: PLAYER_HEAD
   name: '&4&lEliteMobs &r&cby &4&lMagmaGuy'
   lore:
-  - '&8Support the plugins you enjoy!'
+  - '&8Unterstütze die Plugins, die du magst!'
   owner: magmaguy
