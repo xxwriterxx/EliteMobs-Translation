@@ -4,9 +4,9 @@ currencyName: Elite Coins
 useVault - not recommended: false
 enableCurrencyShower: true
 currencyShowerTierMultiplier: 1.0
-chatCurrencyShowerMessage: '&7[EM] You''ve picked up &a$amount $currency_name!'
-actionbarCurrencyShowerMessage: '&7[EM] You''ve picked up &a$amount $currency_name!'
-adventurersGuildNotificationMessage: '&7[EM] Extra spending money? Try &a/ag &7or
+chatCurrencyShowerMessage: '&7[EM] Du hast &a$amount $currency_name gesammelt!'
+actionbarCurrencyShowerMessage: '&7[EM] Du hast &a$amount $currency_name gesammelt!'
+adventurersGuildNotificationMessage: '&7[EM] Noch Geld übrig? Guck mal bei &a/ag &7oder
   &a/em shop&7!'
 lootShowerMaterials:
   '1': GOLD_NUGGET
