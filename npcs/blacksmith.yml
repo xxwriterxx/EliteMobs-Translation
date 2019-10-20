@@ -1,32 +1,32 @@
 isEnabled: true
 name: Greg
-role: <Blacksmith>
+role: <Schmied>
 profession: TOOLSMITH
 location: EliteMobs_adventurers_guild,285.5,93,261.5,179,0
 greetings:
-- Welcome to our shop!
-- Sell your goods here!
-- Fresh goods, just for you!
-- Got something to sell?
-- Want to buy something good?
-- Fresh goods every time!
+- Willkommen in unserem Geschäft!
+- Verkaufe hier deine Waren!
+- Gute Ware, nur für dich!
+- Hast du was zum verkaufen?
+- Willst du was gutes kaufen?
+- Neue Ware, jedes Mal!
 dialog:
 - Higher level mobs drop\nhigher value items!
-- Items with lots of \nenchantments are worth more!
-- Higher level mobs drop\nbetter items!
-- Higher level mobs have\na higher chance of dropping loot!
-- Elite mobs are attracted to\ngood armor, the better the\narmor the higher their
-  level!
-- Some items have special\npotion effects!
-- Some items have unique\neffects!
-- The hunter enchantment\nattracts elite mobs to your\nlocation!
-- Special weapons and armor\ndropped by elite mobs can\nbe sold here!
-- Higher guild ranks will\nincrease the quality of the\nloot from elite mobs!
+- Ausrüstung mit vielen\nVerzauberungen sind mehr wert!
+- Stärkere Monster droppen\nbessere Items!
+- Stärkere Monster haben\neine höhere Chance Items zu droppen!
+- Stärkere Mobs werden durch\nbessere Rüstung angezogen!
+- Manche Ausrüstung hat\nspezielle Effekte!
+- Manche Items haben\neinzigartige Effekte!
+- Die "Hunter"-Verzauberung\nzieht Monster an!
+- Spezielle Waffen und Rüstungen,\ndie Mosnter fallen gelassen haben,\nbe können hier
+  verkauft werden!
+- Höhere Guildenränge\nerhöhen die Qualität\ndes Loots!
 farewell:
-- Thank you for your business!
-- Come back soon!
-- Come back any time!
-- Recommend this shop to your\nfriends!
+- Auf weiter gute Geschäfte!
+- Komm bald wieder!!
+- Du kannst immer vorbeischauen!
+- Empfehle mich deinen Freunden!
 canMove: false
 canTalk: true
 activationRadius: 3.0
