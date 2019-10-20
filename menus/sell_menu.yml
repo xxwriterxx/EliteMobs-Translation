@@ -28,21 +28,22 @@ infoButton:
   material: PLAYER_HEAD
   name: '&4&lEliteMobs &r&cby &4&lMagmaGuy'
   lore:
-  - '&8Support the plugins you enjoy!'
-  - '&4Warning!'
-  - '&cYou can only sell special'
+  - '&8Unterstütze die Plugins, die du magst!'
+  - '&4Warnung!'
+  - '&cDu kannst nur spezielle Items verkaufen'
   - '&cElite Mobs drops in this'
   - '&cshop! These should have'
   - '&ca value on their lore.'
   owner: magmaguy
 cancelButton:
   material: BARRIER
-  name: §4Cancel
+  name: §4Abbrechen
   lore:
-  - §cCancel purchase!
+  - §cKauf abbrechen!
 confirmButton:
   material: EMERALD
-  name: §2Confirm Sale
+  name: §2Verkauf bestätigen
   lore:
-  - §aSell item for
+  - §aAusrüstung für
   - §a$currency_amount $currency_name
+  - §averkaufen
