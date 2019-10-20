@@ -1,51 +1,59 @@
 isEnabled: true
 name: Charles
-role: <Combat Instructor>
+role: <Kampftrainer>
 profession: NITWIT
 location: EliteMobs_adventurers_guild,277.41,90.0,286.23,-214.85,-1.95
 greetings:
-- Want to learn about combat?
-- Need a combat lesson?
-- Want to know more about combat?
-- Ready to fight Elite Mobs?
+- Willst du das Kämpfen lernen?
+- Brauchst du Kampftraining?
+- Willst du mehr über den Kampf lernen?
+- Bereit Elitemonster zu bekämpfen?
 dialog:
-- The items around Elite Mobs\nshow what powers they have.
-- The higher the level of\nthe Elite Mob, the\nmore powers they can have
-- The higher the level of\nthe Elite Mob, the\nbetter the loot they can drop
-- Higher level Elite Mobs\nhave higher chances\nof dropping special items
-- Elite Mobs with floating\narrows fire arrows at\nnearby players
-- Elite Mobs with floating\nender eyes blind you\nwhen they hit you
-- Elite Mobs with floating\nspell particles confuse you\nwhen they hit you
-- Elite Mobs with floating\nlava buckets set you on fire\nwhen they hit you
+- Die Items um Monstern herum\nzeigen, was für Stärken sie haben.
+- Je höher das Level desgegen mehr\n Stärken können sie haben.
+- Je höher das Level der Monster\ndesgegen bessere Ausrüstung können\nsie droppen.
+- Hochlevelige Monster\nhaben höhere Chancen\nspezielle Ausrüstung\nzu droppen.
+- Elite Monster mit schwebenden\nPfeile schießen Pfeile auf\nnahe Spieler
+- Elite Monster mit schwebenden\nEnderaugen machen dich blind,\nwenn sie dich treffen.
+- Elite Monster mit schwebenden\nZauberpartikel verwirren dich,\nwenn sie dich treffen.
+- Elite Monster mit schwebenden\n Lavaeimern setzen dich in Brand,\nwenn sie dich
+  treffen.
 - |-
-  Elite Mobs with floating\nfireballs fire fireballs
-  at nearby players
-- Elite Mobs with floating\npacked ice freeze you\nwhen they hit you
-- Elite Mobs with floating\nelytras make you float\nwhen they hit you
-- Elite Mobs with floating\nemeralds poison you\nwhen they hit you
-- Elite Mobs with floating\npistons push you\nwhen they hit you
-- Elite Mobs with floating\ntotems weaken you\nwhen they hit you
-- Elite Mobs with floating\nwebs web you\nwhen they hit you
-- Elite Mobs with floating\nskulls wither you\nwhen they hit you
-- Elite Mobs with floating\nchests drop bonus loot\nwhen you kill them
-- Elite Mobs with floating\ngold boots are faster
-- Elite Mobs with floating\njukeboxes taunt you\nduring combat
-- Elite Mobs with floating\nglass panes are invisible
-- Elite Mobs with floating\nspectral arrows are immune\nto arrows
-- Elite Mobs with floating\nfeathers are immune\nto fall damage
-- Elite Mobs with floating\nflames are immune\nto fire
-- Elite Mobs with floating\nanvils are heavier\nthan usual
-- Elite Mobs with floating\nbone blocks leave their\ncorpses behind when killed
-- Elite Mobs with floating\nslime blocks jump higher\nthan usual
-- Elite Mobs with floating\nslime balls create a vaccum\nupon death
-- Elite Mobs with floating\nleads pull you\nwhen they hit you
-- Elite Mobs with floating\nbones create bone pillars\nduring combat
-- Elite Mobs with floating\ntipped arrows fire tracking\narrows during combat
-- Elite Mobs with floating\nmushrooms bloat up to become giants\nwhen hit
-- Elite Mobs with floating\nskulls summon reinforcements\nwhen hit
-- Elite Mobs with floating\nbooks summon reinforcements\nuntil you kill the summoner
-- Elite Mobs with floating\neggs summon reinforcements\nwhen hit
-- Elite Mobs with floating\nfireworks summon Team Rocket\nwhen hit
+  Elite Monster mit schwebenden\nFeuerbällen schießen Feuerbälle
+  auf nahe Spieler.
+- Elite Monster mit schwebenden\nPackeis frieren dich ein,\nwenn sie dich treffen.
+- Elite Monster mit schwebenden\nElytras lassen dich schweben\nwenn sie dich treffen.
+- Elite Monster mit schwebenden\nSmaragden vergiften dich,\nwenn sie dich treffen.
+- Elite Monster mit schwebenden\n Kolben schieben dich,\nwenn sie dich treffen.
+- Elite Monster mit schwebenden\nTotems schwächen dich,\nwenn sie dich treffen.
+- Elite Monster mit schwebenden\nNetzen  wickeln dich in Netzen ein,\nwenn sie dich
+  treffen.
+- Elite Monster mit schwebenden\nSchädeln schaden dir,\nwenn sie dich treffen.
+- Elite Monster mit schwebenden\n Kisten droppen Bonusloot,\nwenn du sie tötest.
+- Elite Monster mit schwebenden\n Goldschuhen sind schneller.
+- Elite Monster mit schwebenden\njukeboxes taunt you\nduring combat
+- Elite Monster mit schwebenden\nGlassscheiben sind unsichtbar.
+- Elite Monster mit schwebenden\nLeuchtpfeilen sind immun\ngegen Pfeile.
+- Elite Monster mit schwebenden\nFedern sind immun\ngegen Fallschaden
+- Elite Monster mit schwebenden\nFlammen sind immun\ngegen Feuer.
+- Elite Monster mit schwebenden\n Ambossen sind schwerer\nals sonst
+- Elite Monster mit schwebenden\nKnochenblöcken lassen ihre Leichen\nda, wenn du sie
+  tötest.
+- Elite Monster mit schwebenden\nSchleimblöcken springen höher\nals sonst.
+- Elite Monster mit schwebenden\nSchleimbällen erzeugen ein Vakuum,\nwenn sie sterben.
+- Elite Monster mit schwebenden\nLeinen ziehen dich an,\nwenn sie dich treffen.
+- Elite Monster mit schwebenden\nKnochen erzeugen Knochensäulen\nwährend des Kampfes.
+- Elite Monster mit schwebenden\ngetränkten Pfeilen schießen Verfolgungspfeile\nwährend
+  des Kampfes.
+- Elite Monster mit schwebenden\nPilzen werden zu Riesen,\nwenn sie getroffen werden.
+- Elite Monster mit schwebenden\nSchädeln beschwören Verstärkung,\nwenn sie getroffen
+  werden.
+- Elite Monster mit schwebenden\nBüchern beschwören Verstärkung,\nbis der Beschwörer
+  getötet wird.
+- Elite Monster mit schwebenden\nEiern beschwören Verstärkung,\nwenn sie getroffen
+  werden.
+- Elite Monster mit schwebenden\nRaketen beschwören Team Rocket,\nwenn sie getroffen
+  werden.
 canMove: false
 canTalk: true
 activationRadius: 3.0
