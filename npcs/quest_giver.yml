@@ -4,23 +4,23 @@ role: <Quest Giver>
 profession: FLETCHER
 location: EliteMobs_adventurers_guild,278.5,91,215.5,0,0
 greetings:
-- Greetings, adventurer!\nFancy a quest?
-- You! I've got a quest!
-- Feeling... adventurous?
+- Hallo, Abenteuerer!\nWie wäre es mit einer Quest?
+- DU, ich hab eine Quest\n für dich!
+- Fühlst du dich...\nabenteuerlustig?
 dialog:
-- Complete guild quests\nfor cool rewards!
-- Higher tier quests have\nbetter rewards!
-- Higher tier quests make\nyou hunt higher level mobs!
-- Want a harder challenge?\nIncrease your guild rank!
-- Make sure you're well equipped\nfor these quests!
+- Schließe die Quest für\nBelohnungen ab!
+- Schwierigere Quests\nhaben bessere Belohnungen!
+- Bei schwierigeren Quests\nmusst du stärkere Monster jagen!
+- Willst du eine größere Herausforderung?\nSteige in den Rängen auf!
+- Siehe zu, dass deine Ausrüstung\ngut genug für diese Quest ist!
 farewell:
-- Safe travels, friend.
-- Happy hunting!
-- Live long and prosper!
-- Come back with your shield,\n or on it.
-- Life before death!
-- Strength before weakness!
-- Journey before destination!
+- Gute Reise, Kamerad
+- Gute Jagd!
+- Lebe lang und gut!
+- Komme mit deinem Schild zurück,\n nicht auf dem Schild getragen.
+- Leben über Sterben!
+- Stärke vor Schwäche!
+- Du musst reisen, bevor du ankommst!
 canMove: false
 canTalk: true
 activationRadius: 3.0
