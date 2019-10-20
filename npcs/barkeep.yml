@@ -1,17 +1,17 @@
 isEnabled: true
 name: Bartley
-role: <Barkeep>
+role: <Barkeeper>
 profession: BUTCHER
 location: EliteMobs_adventurers_guild,285.5,91,209.5,0,0
 greetings:
-- Need a drink?
-- Want a drink
-- Thirsty?
-- Howdy, partner.
+- Brauchst du was zu trinken?
+- Willst du was trinken?
+- Durstig?
+- Na, du Sack.
 dialog:
-- Have one of our house specialties.
-- Special drinks won't find them\nanywhere else.
-- One taste and will keep you\ncoming back from more.
+- Wie wäre es mit einer\nunserer örtlichen Spezialitäten?
+- Meine wirst du nirgendswo\nanders finden.
+- Einmal probieren und du\nwirst für mehr wiederkommen!
 farewell:
 - Come back anytime
 - Bottoms up!
