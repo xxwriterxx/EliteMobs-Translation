@@ -1,21 +1,23 @@
-questTierSelectorMenuTitle: '[EM] Guild Rank Selection'
-lowTierWarning: '&cElites can''t drop better loot!'
-normalTierWarning: '&aElite can drop better loot!'
-notEnoughCurrencyMessage: '&7[EliteMobs] &4You don''t have enough Elite Coins ($neededAmount
-  $currencyName)! Sell some Elite Mob loot to [/em shop]! You have $currentAmount
-  $currencyName.'
-unlockMessage: "&7[EliteMobs] &aYou have unlocked the $rankName &arank for $price\
-  \ $currencyName. \n&6Happy hunting!"
-questCompleteBroadcastMessage: '&7[EliteMobs] &a$player &ahas reached the $rankName
-  &aguild rank!'
-failedMessage: '&7[EliteMobs] &cYou need to unlock other ranks first!'
+questTierSelectorMenuTitle: '[EM] Gildenrangauswahl'
+lowTierWarning: '&cMonster können keine bessere Ausrüstung droppen!'
+normalTierWarning: '&aMonster können bessere Ausrüstung droppen!'
+notEnoughCurrencyMessage: '&7[EliteMobs] &4Du hast nicht genug Elitegeld ($neededAmount
+  $currencyName)! Verkaufe etwas Loot [/em shop]! Du hast $currentAmount $currencyName.'
+unlockMessage: "&7[EliteMobs] &aDu hast nun den $rankName &aRang für $price $currencyName\
+  \ freigeschaltet! \n&6Gute Jagd!"
+questCompleteBroadcastMessage: '&7[EliteMobs] &a$player &ahas erreichte den $rankName
+  &aguild Rang!'
+failedMessage: '&7[EliteMobs] &cDu musst zuerst andere Ränge freischalten!'
+spawnRateModifierMessage: '&fElite Mob Spawnratenmodifikator: &c$modifier%'
+lootModifierMessage: '&fElite Mob Lootmodifikator: &a$modifier%'
+difficultyModifierMessage: '&fElite Mob Schwierigkeitsmodifikator: &c$modifier%'
 unlockedButton:
   material: GRAY_STAINED_GLASS_PANE
   name: $rankName
   lore:
   - §f§m-------------------------------
-  - §aThis rank is unlocked!
-  - §fYou can select it.
+  - §aDieser Rang ist bereits übertroffen!
+  - §fDu kannst ihn aber auswählen.
   - $tierWarning
   - §f§m-------------------------------
   - $lootBonus
@@ -26,8 +28,8 @@ lockedButton:
   name: $rankName
   lore:
   - §f§m-------------------------------
-  - §aThis rank is locked!
-  - §cYou need the $previousRank rank first!
+  - §aDieser Rang ist noch gesperrt!
+  - §cDu brauchst erst den $previousRank Rang!
   - $tierWarning
   - §f§m-------------------------------
   - $lootBonus
@@ -38,7 +40,7 @@ currentButton:
   name: $rankName
   lore:
   - §f§m-------------------------------
-  - §aThis is your current rank!
+  - §aDies ist dein aktueller Rang!
   - $tierWarning
   - §f§m-------------------------------
   - $lootBonus
@@ -49,10 +51,10 @@ nextButton:
   name: $rankName
   lore:
   - §f§m-------------------------------
-  - §6This is the next rank you can unlock
-  - §aSelect it when you're ready!
-  - §6Costs $price §6$currencyName
-  - §fYou have §a$currentCurrency $currencyName
+  - §6Dies ist der nächste Rang, den du freischalten kannst.
+  - §aWähle ihn aus, wenn du bereit bist!
+  - §6Er kostet $price §6$currencyName
+  - §fDu hast §a$currentCurrency $currencyName
   - $tierWarning
   - §f§m-------------------------------
   - $lootBonus
